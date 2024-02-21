@@ -1,0 +1,16 @@
+{
+  "title": "Servicios",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/servicios-1",
+  "permalink": "/documentacion-DSI/docs/category/servicios-1",
+  "navigation": {
+    "previous": {
+      "title": "Restaurante",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/Descargar Productos y Precios"
+    },
+    "next": {
+      "title": "Etiquetas de impuestos dinámica V.1.9.7",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/productoss/Descargar Productos y Precios"
+    }
+  }
+}

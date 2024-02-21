@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/Servicios/Etiquetas",
+  "title": "Etiquetas de impuestos dinámica V.1.9.7",
+  "description": "1 Antecedentes",
+  "source": "@site/docs/Maxpoint/Productos/Servicios/Etiquetas.md",
+  "sourceDirName": "Maxpoint/Productos/Servicios",
+  "slug": "/Maxpoint/Productos/Servicios/Etiquetas",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios/Etiquetas.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Habilitar Separación de Plus con Servicio 10%",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas copy"
+  },
+  "next": {
+    "title": "Bases_Replica",
+    "permalink": "/documentacion-DSI/docs/category/bases_replica"
+  }
+}

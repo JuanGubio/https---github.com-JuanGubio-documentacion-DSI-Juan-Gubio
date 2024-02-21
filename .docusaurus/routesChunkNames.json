@@ -1,0 +1,553 @@
+{
+  "/documentacion-DSI/__docusaurus/debug-2c3": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-565-03b"
+    }
+  },
+  "/documentacion-DSI/__docusaurus/debug/config-660": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-565-03b"
+    }
+  },
+  "/documentacion-DSI/__docusaurus/debug/content-a7f": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-565-03b"
+    },
+    "allContent": "allContent---documentacion-dsi-docusaurus-debug-content-246-094"
+  },
+  "/documentacion-DSI/__docusaurus/debug/globalData-920": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-565-03b"
+    }
+  },
+  "/documentacion-DSI/__docusaurus/debug/metadata-e63": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-565-03b"
+    }
+  },
+  "/documentacion-DSI/__docusaurus/debug/registry-666": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-565-03b"
+    }
+  },
+  "/documentacion-DSI/__docusaurus/debug/routes-bad": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docusaurus-debug-565-03b"
+    }
+  },
+  "/documentacion-DSI/blog-f3d": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-766-858"
+      },
+      {
+        "content": "content---documentacion-dsi-blogf-4-f-fa8"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-871-0f2"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-925-415"
+      }
+    ],
+    "metadata": "metadata---documentacion-dsi-blogeab-76e"
+  },
+  "/documentacion-DSI/blog/archive-1ad": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "archive": "archive---documentacion-dsi-blog-archive-64-c-916"
+  },
+  "/documentacion-DSI/blog/first-blog-post-0a1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "content": "content---documentacion-dsi-blog-first-blog-poste-27-bdf"
+  },
+  "/documentacion-DSI/blog/long-blog-post-20e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "content": "content---documentacion-dsi-blog-long-blog-post-736-893"
+  },
+  "/documentacion-DSI/blog/mdx-blog-post-712": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "content": "content---documentacion-dsi-blog-mdx-blog-post-593-764"
+  },
+  "/documentacion-DSI/blog/tags-27c": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "tags": "tags---documentacion-dsi-blog-tags-5-a-7-dc4"
+  },
+  "/documentacion-DSI/blog/tags/docusaurus-308": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-766-858"
+      },
+      {
+        "content": "content---documentacion-dsi-blogf-4-f-fa8"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-871-0f2"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-925-415"
+      }
+    ],
+    "tag": "tag---documentacion-dsi-blog-tags-docusaurus-1-f-5-495",
+    "listMetadata": "listMetadata---documentacion-dsi-blog-tags-docusaurus-7-d-0-9de"
+  },
+  "/documentacion-DSI/blog/tags/facebook-717": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-766-858"
+      }
+    ],
+    "tag": "tag---documentacion-dsi-blog-tags-facebookbb-5-b9c",
+    "listMetadata": "listMetadata---documentacion-dsi-blog-tags-facebook-1-d-7-774"
+  },
+  "/documentacion-DSI/blog/tags/hello-ee9": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-766-858"
+      },
+      {
+        "content": "content---documentacion-dsi-blog-871-0f2"
+      }
+    ],
+    "tag": "tag---documentacion-dsi-blog-tags-hello-203-6db",
+    "listMetadata": "listMetadata---documentacion-dsi-blog-tags-hello-1-a-8-371"
+  },
+  "/documentacion-DSI/blog/tags/hola-f5b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "items": [
+      {
+        "content": "content---documentacion-dsi-blog-925-415"
+      }
+    ],
+    "tag": "tag---documentacion-dsi-blog-tags-hola-9-c-8-2c8",
+    "listMetadata": "listMetadata---documentacion-dsi-blog-tags-hola-85-d-9aa"
+  },
+  "/documentacion-DSI/blog/welcome-f29": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-blog-489-c47"
+    },
+    "sidebar": "sidebar---documentacion-dsi-blog-814-700",
+    "content": "content---documentacion-dsi-blog-welcomed-9-f-99c"
+  },
+  "/documentacion-DSI/markdown-page-f15": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-markdown-page-0-c-0-567"
+    },
+    "content": "content---documentacion-dsi-markdown-page-393-798"
+  },
+  "/documentacion-DSI/docs-a96": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-docs-9-e-7-609"
+    }
+  },
+  "/documentacion-DSI/docs-43f": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---documentacion-dsi-docs-935-df1"
+  },
+  "/documentacion-DSI/docs-e2e": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/documentacion-DSI/docs/category/bases_replica-ce5": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-bases-replicaf-3-c-b6d"
+  },
+  "/documentacion-DSI/docs/category/bringg-y-peya--e8b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-bringg-y-peya-e-8-c-95e"
+  },
+  "/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156-539": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-configuracion-de-politicas-mxp-v-1915608-a-ed6"
+  },
+  "/documentacion-DSI/docs/category/creacion-de-productos-desde-maxpoint-3b1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-creacion-de-productos-desde-maxpoint-97-a-410"
+  },
+  "/documentacion-DSI/docs/category/des-relacionar-cajas-chicas-desde-maxpoint-869": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-des-relacionar-cajas-chicas-desde-maxpointfde-013"
+  },
+  "/documentacion-DSI/docs/category/encuestas-d48": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-encuestas-387-c13"
+  },
+  "/documentacion-DSI/docs/category/facturación-electronica-0f8": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-facturacion-electronica-2-fb-d37"
+  },
+  "/documentacion-DSI/docs/category/facturación-electronica-1-963": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-facturacion-electronica-133-d-8d1"
+  },
+  "/documentacion-DSI/docs/category/fullservice-8df": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-fullservicec-33-49c"
+  },
+  "/documentacion-DSI/docs/category/horarios-373": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-horarios-794-837"
+  },
+  "/documentacion-DSI/docs/category/identificadores-app--a77": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-identificadores-app-c-38-5f8"
+  },
+  "/documentacion-DSI/docs/category/instalacion-de-reportes-3a9": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-instalacion-de-reportese-13-f92"
+  },
+  "/documentacion-DSI/docs/category/integracion-sir-d3f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-integracion-sird-61-1c3"
+  },
+  "/documentacion-DSI/docs/category/kiosko-fc1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-kioskoc-9-d-bde"
+  },
+  "/documentacion-DSI/docs/category/mantenimiento-f4d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-mantenimientof-18-29e"
+  },
+  "/documentacion-DSI/docs/category/manual-de-cambios-para-eventos-8de": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-manual-de-cambios-para-eventos-14-f-8df"
+  },
+  "/documentacion-DSI/docs/category/maxpoint-ecb": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-maxpoint-6-c-2-da9"
+  },
+  "/documentacion-DSI/docs/category/mxp-v19155-22e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-mxp-v-19155-f-13-4b6"
+  },
+  "/documentacion-DSI/docs/category/notas-de-credito-252": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-notas-de-creditob-78-f75"
+  },
+  "/documentacion-DSI/docs/category/payphone-632": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-payphoneac-3-181"
+  },
+  "/documentacion-DSI/docs/category/plugthen-94a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-plugthen-237-20b"
+  },
+  "/documentacion-DSI/docs/category/por-productos--393": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-por-productos-252-e70"
+  },
+  "/documentacion-DSI/docs/category/productos-5a6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-productos-760-958"
+  },
+  "/documentacion-DSI/docs/category/reclamos-y-sugerencia-0bc": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-reclamos-y-sugerencia-494-9ea"
+  },
+  "/documentacion-DSI/docs/category/replica-v2-e5f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-replica-v-2167-abd"
+  },
+  "/documentacion-DSI/docs/category/restaurantes-24c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-restaurantes-324-0fb"
+  },
+  "/documentacion-DSI/docs/category/ria-control-v3productos-especiales-622": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-ria-control-v-3-productos-especiales-9-bf-c0c"
+  },
+  "/documentacion-DSI/docs/category/secuencia_ventas-d64": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-secuencia-ventasf-12-4f3"
+  },
+  "/documentacion-DSI/docs/category/servicios-110": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-servicios-428-99b"
+  },
+  "/documentacion-DSI/docs/category/tutorial---basics-cbf": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-tutorial-basics-171-252"
+  },
+  "/documentacion-DSI/docs/category/tutorial---extras-64c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-tutorial-extras-87-e-2d5"
+  },
+  "/documentacion-DSI/docs/category/uber-direct-04f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-uber-direct-0-bb-303"
+  },
+  "/documentacion-DSI/docs/category/vaucheraereolinea-7fa": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-vaucheraereolinea-86-c-2fa"
+  },
+  "/documentacion-DSI/docs/category/vitality-1d6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-vitality-182-603"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT-945": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-manual-del-sistema-maxpoint-69-e-f28"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint-67d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-facturacion-electronica-copy-maxpointe-58-5bd"
+  },
+  "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint-f0f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-facturacion-electronica-maxpoint-82-e-08a"
+  },
+  "/documentacion-DSI/docs/intro-bc1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-intro-0-e-3-b5a"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint-8b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-manual-del-sistema-maxpoint-33-f-034"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas-f34": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-etiquetasc-8-d-099"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas copy-8ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-etiquetas-copy-963-13d"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/16-932": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-10-16-d-70-53c"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/17-af8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-10-170-ec-405"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/18-e64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-11-18-ff-3-491"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/19-80c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-11-199-e-2-c36"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios12/20-abe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-12-20297-4b7"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios13/21-ccc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-13-2166-d-e9e"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios14/22-e75": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-14-22739-82a"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios15/23-115": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-15-231-a-0-76b"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/24-8f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-16-2446-c-c19"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/25-7db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-16-2573-c-6d7"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/26-09e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-16-26649-133"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios17/27-42d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-17-27404-b84"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios18/28-135": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-18-28046-826"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/29-726": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-19-29-ffd-560"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/30-86e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-19-30-f-2-c-c3a"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo-927": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-2-archivo-253-454"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/1-a16": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-3-1-df-3-0e4"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/2-1e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-3-2-cc-3-531"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3-7fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-4-38-b-5-f0b"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3.2-1aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-4-3-2405-75a"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/4-ada": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-4-45-cf-a71"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/5-19b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-5-5-a-02-244"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/6-9a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-5-6-efe-39d"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/7-249": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-6-servicios-7-7287-378"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/8-fdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-6-servicios-7-83-d-9-eef"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/9-b47": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-6-servicios-7-99-be-000"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios8/10-ffa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-6-servicios-8-10289-0e6"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.1/11-6a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-9-servicios-9-1-11-c-3-c-d06"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/12-14a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-9-servicios-9-2-122-f-5-061"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/13-853": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-9-servicios-9-2-13-ac-0-883"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/14-2af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-9-servicios-9-2-14-b-46-1c6"
+  },
+  "/documentacion-DSI/docs/Maxpoint/productoss/Descargar Productos y Precios-05f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productoss-descargar-productos-y-precios-660-44c"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida1/c1-ca4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-restaurantes-comida-1-c-1-efc-1b3"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida2/c2-d20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-restaurantes-comida-2-c-2459-842"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida3/c3-680": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-restaurantes-comida-3-c-3223-ace"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida4/c4-268": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-restaurantes-comida-4-c-487-d-eef"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida5/c5-0b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-restaurantes-comida-5-c-583-c-051"
+  },
+  "/documentacion-DSI/docs/tutorial-basics/congratulations-cda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-congratulations-822-253"
+  },
+  "/documentacion-DSI/docs/tutorial-basics/create-a-blog-post-89c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-create-a-blog-post-533-e79"
+  },
+  "/documentacion-DSI/docs/tutorial-basics/create-a-document-370": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-create-a-document-1-e-4-c7c"
+  },
+  "/documentacion-DSI/docs/tutorial-basics/create-a-page-ce7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-create-a-page-5-c-8-d2d"
+  },
+  "/documentacion-DSI/docs/tutorial-basics/deploy-your-site-f8c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-deploy-your-sitef-55-d99"
+  },
+  "/documentacion-DSI/docs/tutorial-basics/markdown-features-56e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-basics-markdown-features-18-c-a56"
+  },
+  "/documentacion-DSI/docs/tutorial-extras/manage-docs-versions-c15": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-extras-manage-docs-versionsdff-d05"
+  },
+  "/documentacion-DSI/docs/tutorial-extras/translate-your-site-9f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-tutorial-extras-translate-your-sitee-44-61d"
+  },
+  "/documentacion-DSI/-4fe": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---documentacion-dsi-markdown-page-0-c-0-567"
+    },
+    "config": "config---documentacion-dsi-5-e-9-323"
+  }
+}

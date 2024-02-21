@@ -1,0 +1,16 @@
+{
+  "title": "Instalacion de Reportes",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/instalacion-de-reportes",
+  "permalink": "/documentacion-DSI/docs/category/instalacion-de-reportes",
+  "navigation": {
+    "previous": {
+      "title": "Manual de Configuracion Eventos",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida4/c4"
+    },
+    "next": {
+      "title": "Manual de Usuario - Instalación de Reportes KFC",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida5/c5"
+    }
+  }
+}

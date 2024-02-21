@@ -1,0 +1,16 @@
+{
+  "title": "Restaurantes",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/restaurantes",
+  "permalink": "/documentacion-DSI/docs/category/restaurantes",
+  "navigation": {
+    "previous": {
+      "title": "manualPoliticas ControlCajas SIR-MAXPOINT (1)",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/14"
+    },
+    "next": {
+      "title": "FullService",
+      "permalink": "/documentacion-DSI/docs/category/fullservice"
+    }
+  }
+}

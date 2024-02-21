@@ -1,0 +1,458 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/documentacion-DSI/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/documentacion-DSI/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Facturacion Electronica/Maxpoint",
+              "path": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/documentacion-DSI/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Manual del Sistema Maxpoint",
+              "path": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios/Etiquetas",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios/Etiquetas copy",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas copy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios10/16",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/16",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios10/17",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/17",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios11/18",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/18",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios11/19",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/19",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios12/20",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios12/20",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios13/21",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios13/21",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios14/22",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios14/22",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios15/23",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios15/23",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios16/24",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/24",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios16/25",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/25",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios16/26",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/26",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios17/27",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios17/27",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios18/28",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios18/28",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios19/29",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/29",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios19/30",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/30",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios2/archivo",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios3/1",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios3/2",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios4/3",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios4/3.2",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3.2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios4/4",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios5/5",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios5/6",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios6/servicios7/7",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/7",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios6/servicios7/8",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/8",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios6/servicios7/9",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/9",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios6/servicios8/10",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios8/10",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios9/servicios9.1/11",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.1/11",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios9/servicios9.2/12",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/12",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios9/servicios9.2/13",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/13",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Productos/servicios9/servicios9.2/14",
+              "path": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/14",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/productoss/Descargar Productos y Precios",
+              "path": "/documentacion-DSI/docs/Maxpoint/productoss/Descargar Productos y Precios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida1/c1",
+              "path": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida1/c1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida2/c2",
+              "path": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida2/c2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida3/c3",
+              "path": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida3/c3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida4/c4",
+              "path": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida4/c4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida5/c5",
+              "path": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida5/c5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/documentacion-DSI/docs/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/documentacion-DSI/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/documentacion-DSI/docs/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/documentacion-DSI/docs/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/documentacion-DSI/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/documentacion-DSI/docs/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/documentacion-DSI/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/documentacion-DSI/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/maxpoint",
+              "path": "/documentacion-DSI/docs/category/maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/productos",
+              "path": "/documentacion-DSI/docs/category/productos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/servicios",
+              "path": "/documentacion-DSI/docs/category/servicios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/bases_replica",
+              "path": "/documentacion-DSI/docs/category/bases_replica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/bringg-y-peya-",
+              "path": "/documentacion-DSI/docs/category/bringg-y-peya-",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/identificadores-app-",
+              "path": "/documentacion-DSI/docs/category/identificadores-app-",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/integracion-sir",
+              "path": "/documentacion-DSI/docs/category/integracion-sir",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/notas-de-credito",
+              "path": "/documentacion-DSI/docs/category/notas-de-credito",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/payphone",
+              "path": "/documentacion-DSI/docs/category/payphone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/replica-v2",
+              "path": "/documentacion-DSI/docs/category/replica-v2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/reclamos-y-sugerencia",
+              "path": "/documentacion-DSI/docs/category/reclamos-y-sugerencia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/ria-control-v3productos-especiales",
+              "path": "/documentacion-DSI/docs/category/ria-control-v3productos-especiales",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/secuencia_ventas",
+              "path": "/documentacion-DSI/docs/category/secuencia_ventas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/configuracion-de-politicas-mxp-v-19156",
+              "path": "/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/uber-direct",
+              "path": "/documentacion-DSI/docs/category/uber-direct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/vaucheraereolinea",
+              "path": "/documentacion-DSI/docs/category/vaucheraereolinea",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/vitality",
+              "path": "/documentacion-DSI/docs/category/vitality",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/encuestas",
+              "path": "/documentacion-DSI/docs/category/encuestas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/plugthen",
+              "path": "/documentacion-DSI/docs/category/plugthen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/por-productos-",
+              "path": "/documentacion-DSI/docs/category/por-productos-",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/mxp-v19155",
+              "path": "/documentacion-DSI/docs/category/mxp-v19155",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/creacion-de-productos-desde-maxpoint",
+              "path": "/documentacion-DSI/docs/category/creacion-de-productos-desde-maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/des-relacionar-cajas-chicas-desde-maxpoint",
+              "path": "/documentacion-DSI/docs/category/des-relacionar-cajas-chicas-desde-maxpoint",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/restaurantes",
+              "path": "/documentacion-DSI/docs/category/restaurantes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/fullservice",
+              "path": "/documentacion-DSI/docs/category/fullservice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/horarios",
+              "path": "/documentacion-DSI/docs/category/horarios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/mantenimiento",
+              "path": "/documentacion-DSI/docs/category/mantenimiento",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/manual-de-cambios-para-eventos",
+              "path": "/documentacion-DSI/docs/category/manual-de-cambios-para-eventos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/instalacion-de-reportes",
+              "path": "/documentacion-DSI/docs/category/instalacion-de-reportes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/kiosko",
+              "path": "/documentacion-DSI/docs/category/kiosko",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/documentacion-DSI/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/facturación-electronica",
+              "path": "/documentacion-DSI/docs/category/facturación-electronica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/facturación-electronica-1",
+              "path": "/documentacion-DSI/docs/category/facturación-electronica-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/documentacion-DSI/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/documentacion-DSI/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "PAYPHONE",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/payphone",
+  "permalink": "/documentacion-DSI/docs/category/payphone",
+  "navigation": {
+    "previous": {
+      "title": "TEST CASES - NOTAS DE CRÉDITO",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/17"
+    },
+    "next": {
+      "title": "Manual de usuario PayPhone",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/18"
+    }
+  }
+}

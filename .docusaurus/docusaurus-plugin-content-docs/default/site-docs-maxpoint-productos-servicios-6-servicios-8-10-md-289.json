@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios6/servicios8/10",
+  "title": "Manual - Configuración PlugThem Encuestas Producto",
+  "description": "CONFIGURACIÓN ENCUESTA PRODUCTOS - PLUGTHEM.",
+  "source": "@site/docs/Maxpoint/Productos/servicios6/servicios8/10.md",
+  "sourceDirName": "Maxpoint/Productos/servicios6/servicios8",
+  "slug": "/Maxpoint/Productos/servicios6/servicios8/10",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios8/10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios6/servicios8/10.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Por productos ",
+    "permalink": "/documentacion-DSI/docs/category/por-productos-"
+  },
+  "next": {
+    "title": "MXP v1.9.15.5",
+    "permalink": "/documentacion-DSI/docs/category/mxp-v19155"
+  }
+}

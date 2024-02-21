@@ -1,0 +1,16 @@
+{
+  "title": "Des relacionar cajas chicas desde Maxpoint",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/des-relacionar-cajas-chicas-desde-maxpoint",
+  "permalink": "/documentacion-DSI/docs/category/des-relacionar-cajas-chicas-desde-maxpoint",
+  "navigation": {
+    "previous": {
+      "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.1/11"
+    },
+    "next": {
+      "title": "Manual de configuración de politicas - Relacionar caja chica",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/12"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios6/servicios7/8",
+  "title": "Habilitar Encuesta de Satisfacción",
+  "description": "HABILITAR ENCUESTA DE SATISFACCIÓN AL CLIENTE",
+  "source": "@site/docs/Maxpoint/Productos/servicios6/servicios7/8.md",
+  "sourceDirName": "Maxpoint/Productos/servicios6/servicios7",
+  "slug": "/Maxpoint/Productos/servicios6/servicios7/8",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/8",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios6/servicios7/8.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Encuesta de Satisfacción Cliente - Plug Them",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/7"
+  },
+  "next": {
+    "title": "Listado de los códigos HTTP más importantes",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/9"
+  }
+}

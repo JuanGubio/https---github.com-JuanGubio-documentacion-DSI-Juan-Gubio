@@ -1,0 +1,16 @@
+{
+  "title": "Bringg y Peya ",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/bringg-y-peya-",
+  "permalink": "/documentacion-DSI/docs/category/bringg-y-peya-",
+  "navigation": {
+    "previous": {
+      "title": "Manual Bases Replicacion",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo"
+    },
+    "next": {
+      "title": "Manual Configuración Restaurantes en Bringg 2021",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/1"
+    }
+  }
+}

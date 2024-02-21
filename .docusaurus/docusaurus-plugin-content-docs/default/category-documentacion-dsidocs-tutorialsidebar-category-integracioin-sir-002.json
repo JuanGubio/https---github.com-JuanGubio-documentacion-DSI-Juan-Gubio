@@ -1,0 +1,16 @@
+{
+  "title": "Integracioin SIR",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/integracioin-sir",
+  "permalink": "/documentacion-DSI/docs/category/integracioin-sir",
+  "navigation": {
+    "previous": {
+      "title": "Manual del Sistema Maxpoint",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint"
+    },
+    "next": {
+      "title": "Servicios",
+      "permalink": "/documentacion-DSI/docs/category/servicios"
+    }
+  }
+}

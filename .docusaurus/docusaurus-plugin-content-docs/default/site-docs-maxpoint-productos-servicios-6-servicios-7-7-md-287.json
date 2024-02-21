@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios6/servicios7/7",
+  "title": "Encuesta de Satisfacción Cliente - Plug Them",
+  "description": "ENCUESTA DE SATISFACCIÓN AL CLIENTE.",
+  "source": "@site/docs/Maxpoint/Productos/servicios6/servicios7/7.md",
+  "sourceDirName": "Maxpoint/Productos/servicios6/servicios7",
+  "slug": "/Maxpoint/Productos/servicios6/servicios7/7",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/7",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios6/servicios7/7.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PlugThen",
+    "permalink": "/documentacion-DSI/docs/category/plugthen"
+  },
+  "next": {
+    "title": "Habilitar Encuesta de Satisfacción",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/8"
+  }
+}

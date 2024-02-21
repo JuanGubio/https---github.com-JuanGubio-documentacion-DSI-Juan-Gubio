@@ -1,0 +1,16 @@
+{
+  "title": "Bases_Repa",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/bases_repa",
+  "permalink": "/documentacion-DSI/docs/category/bases_repa",
+  "navigation": {
+    "previous": {
+      "title": "Manual Bases Replicacion",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo"
+    },
+    "next": {
+      "title": "agag",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/1"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Secuencia_Ventas",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/secuencia_ventas-1",
+  "permalink": "/documentacion-DSI/docs/category/secuencia_ventas-1",
+  "navigation": {
+    "previous": {
+      "title": "Manual Secuenciales y Ventas",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios15/23"
+    },
+    "next": {
+      "title": "24",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/24"
+    }
+  }
+}

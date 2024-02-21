@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios10/17",
+  "title": "TEST CASES - NOTAS DE CRÉDITO",
+  "description": "MAXPOINT v1.9.10.6 NOTAS DE CRÉDITO",
+  "source": "@site/docs/Maxpoint/Productos/servicios10/17.md",
+  "sourceDirName": "Maxpoint/Productos/servicios10",
+  "slug": "/Maxpoint/Productos/servicios10/17",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/17",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios10/17.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Notas de Crédito",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/16"
+  },
+  "next": {
+    "title": "PAYPHONE",
+    "permalink": "/documentacion-DSI/docs/category/payphone"
+  }
+}

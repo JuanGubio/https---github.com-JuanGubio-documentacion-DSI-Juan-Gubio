@@ -1,0 +1,16 @@
+{
+  "title": "axenos",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/axenos",
+  "permalink": "/documentacion-DSI/docs/category/axenos",
+  "navigation": {
+    "previous": {
+      "title": "Administracion de periodos",
+      "permalink": "/documentacion-DSI/docs/category/administracion-de-periodos"
+    },
+    "next": {
+      "title": "anexos",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/Anexos/"
+    }
+  }
+}

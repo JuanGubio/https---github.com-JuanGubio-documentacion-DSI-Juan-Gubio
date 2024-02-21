@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/Servicios3/3",
+  "title": "3",
+  "description": "",
+  "source": "@site/docs/Maxpoint/Productos/Servicios3/3.md",
+  "sourceDirName": "Maxpoint/Productos/Servicios3",
+  "slug": "/Maxpoint/Productos/Servicios3/3",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios3/3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual de Configuración politicas PEDIDOSYA",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/2"
+  },
+  "next": {
+    "title": "Restaurantes",
+    "permalink": "/documentacion-DSI/docs/category/restaurantes"
+  }
+}

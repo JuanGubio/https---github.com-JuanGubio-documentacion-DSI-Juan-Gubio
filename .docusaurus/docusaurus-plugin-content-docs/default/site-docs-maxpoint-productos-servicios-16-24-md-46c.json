@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios16/24",
+  "title": "Manual - Configuración Forma Pago Crédito Relacionado",
+  "description": "CONFIGURACIÓN FORMA PAGO – CRÉDITO RELACIONADO",
+  "source": "@site/docs/Maxpoint/Productos/servicios16/24.md",
+  "sourceDirName": "Maxpoint/Productos/servicios16",
+  "slug": "/Maxpoint/Productos/servicios16/24",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/24",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios16/24.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuracion de politicas mxp v 1.9.15.6",
+    "permalink": "/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156"
+  },
+  "next": {
+    "title": "Manual - Configuración Políticas Validacion RUC",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/25"
+  }
+}

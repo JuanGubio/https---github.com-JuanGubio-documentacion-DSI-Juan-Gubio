@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios9/servicios9.1/11",
+  "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+  "description": "Manual para LA CONFIGURACIÓN DE CREACIÓN Y ACTUALIZACIÓN DE PRODUCTOS DESDE MAXPOINT HACIA SIR",
+  "source": "@site/docs/Maxpoint/Productos/servicios9/servicios9.1/11.md",
+  "sourceDirName": "Maxpoint/Productos/servicios9/servicios9.1",
+  "slug": "/Maxpoint/Productos/servicios9/servicios9.1/11",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.1/11",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios9/servicios9.1/11.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creacion de productos desde maxpoint",
+    "permalink": "/documentacion-DSI/docs/category/creacion-de-productos-desde-maxpoint"
+  },
+  "next": {
+    "title": "Des relacionar cajas chicas desde Maxpoint",
+    "permalink": "/documentacion-DSI/docs/category/des-relacionar-cajas-chicas-desde-maxpoint"
+  }
+}

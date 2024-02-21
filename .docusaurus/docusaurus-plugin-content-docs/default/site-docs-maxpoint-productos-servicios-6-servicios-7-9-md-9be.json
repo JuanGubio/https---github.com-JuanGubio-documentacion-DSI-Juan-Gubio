@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios6/servicios7/9",
+  "title": "Listado de los códigos HTTP más importantes",
+  "description": "Listado de los códigos HTTP más importantes",
+  "source": "@site/docs/Maxpoint/Productos/servicios6/servicios7/9.md",
+  "sourceDirName": "Maxpoint/Productos/servicios6/servicios7",
+  "slug": "/Maxpoint/Productos/servicios6/servicios7/9",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/9",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios6/servicios7/9.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Habilitar Encuesta de Satisfacción",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/8"
+  },
+  "next": {
+    "title": "Por productos ",
+    "permalink": "/documentacion-DSI/docs/category/por-productos-"
+  }
+}

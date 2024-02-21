@@ -1,0 +1,16 @@
+{
+  "title": "MXP",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/mxp",
+  "permalink": "/documentacion-DSI/docs/category/mxp",
+  "navigation": {
+    "previous": {
+      "title": "Manual - Configuración PlugThem Encuestas Producto",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios8/10"
+    },
+    "next": {
+      "title": "Creacion de productos desde maxpoint",
+      "permalink": "/documentacion-DSI/docs/category/creacion-de-productos-desde-maxpoint"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios12/20",
+  "title": "Manual de Usuario politicas",
+  "description": "Manual para LA CONFIGURACIÓN DEl panel replicacion DESDE MAXPOINT HACIA api panel replicacion",
+  "source": "@site/docs/Maxpoint/Productos/servicios12/20.md",
+  "sourceDirName": "Maxpoint/Productos/servicios12",
+  "slug": "/Maxpoint/Productos/servicios12/20",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios12/20",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios12/20.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Replica V2",
+    "permalink": "/documentacion-DSI/docs/category/replica-v2"
+  },
+  "next": {
+    "title": "Reclamos y Sugerencia",
+    "permalink": "/documentacion-DSI/docs/category/reclamos-y-sugerencia"
+  }
+}

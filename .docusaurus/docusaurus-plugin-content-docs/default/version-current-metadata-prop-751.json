@@ -1,0 +1,998 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Tutorial Intro",
+        "href": "/documentacion-DSI/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Maxpoint",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manual del Sistema Maxpoint",
+            "href": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint",
+            "docId": "Maxpoint/Manual del Sistema Maxpoint",
+            "unlisted": false
+          },
+          {
+            "type": "category",
+            "label": "Productos",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "Servicios",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Habilitar Separación de Plus con Servicio 10%",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas copy",
+                    "docId": "Maxpoint/Productos/Servicios/Etiquetas copy",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Etiquetas de impuestos dinámica V.1.9.7",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas",
+                    "docId": "Maxpoint/Productos/Servicios/Etiquetas",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/servicios"
+              },
+              {
+                "type": "category",
+                "label": "Bases_Replica",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual Bases Replicacion",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo",
+                    "docId": "Maxpoint/Productos/servicios2/archivo",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/bases_replica"
+              },
+              {
+                "type": "category",
+                "label": "Bringg y Peya ",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual Configuración Restaurantes en Bringg 2021",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/1",
+                    "docId": "Maxpoint/Productos/Servicios3/1",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual de Configuración politicas PEDIDOSYA",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/2",
+                    "docId": "Maxpoint/Productos/Servicios3/2",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/bringg-y-peya-"
+              },
+              {
+                "type": "category",
+                "label": "Identificadores App ",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "3.2",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3.2",
+                    "docId": "Maxpoint/Productos/Servicios4/3.2",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual - Politicas Identificador Cupones",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3",
+                    "docId": "Maxpoint/Productos/Servicios4/3",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual - Identificador Cupones QR",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/4",
+                    "docId": "Maxpoint/Productos/Servicios4/4",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/identificadores-app-"
+              },
+              {
+                "type": "category",
+                "label": "Integracion SIR",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual de Usuario Creación y Actualización de Productos",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/5",
+                    "docId": "Maxpoint/Productos/servicios5/5",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/6",
+                    "docId": "Maxpoint/Productos/servicios5/6",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/integracion-sir"
+              },
+              {
+                "type": "category",
+                "label": "Notas de credito",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual Notas de Crédito",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/16",
+                    "docId": "Maxpoint/Productos/servicios10/16",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "TEST CASES - NOTAS DE CRÉDITO",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/17",
+                    "docId": "Maxpoint/Productos/servicios10/17",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/notas-de-credito"
+              },
+              {
+                "type": "category",
+                "label": "PAYPHONE",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual de usuario PayPhone",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/18",
+                    "docId": "Maxpoint/Productos/servicios11/18",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual para Configurar politicas PayPhone",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/19",
+                    "docId": "Maxpoint/Productos/servicios11/19",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/payphone"
+              },
+              {
+                "type": "category",
+                "label": "Replica V2",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual de Usuario politicas",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios12/20",
+                    "docId": "Maxpoint/Productos/servicios12/20",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/replica-v2"
+              },
+              {
+                "type": "category",
+                "label": "Reclamos y Sugerencia",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual de creacion de leyenda reclamos o sugerencias",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios13/21",
+                    "docId": "Maxpoint/Productos/servicios13/21",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/reclamos-y-sugerencia"
+              },
+              {
+                "type": "category",
+                "label": "RIA CONTROL V3(PRODUCTOS ESPECIALES)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual de politicas - RIA CONTROL V3",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios14/22",
+                    "docId": "Maxpoint/Productos/servicios14/22",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/ria-control-v3productos-especiales"
+              },
+              {
+                "type": "category",
+                "label": "Secuencia_Ventas",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual Secuenciales y Ventas",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios15/23",
+                    "docId": "Maxpoint/Productos/servicios15/23",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/secuencia_ventas"
+              },
+              {
+                "type": "category",
+                "label": "Configuracion de politicas mxp v 1.9.15.6",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual - Configuración Forma Pago Crédito Relacionado",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/24",
+                    "docId": "Maxpoint/Productos/servicios16/24",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual - Configuración Políticas Validacion RUC",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/25",
+                    "docId": "Maxpoint/Productos/servicios16/25",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual de politicas - CajaChica",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/26",
+                    "docId": "Maxpoint/Productos/servicios16/26",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156"
+              },
+              {
+                "type": "category",
+                "label": "UBER DIRECT",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual de Configuración politicas UBER",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios17/27",
+                    "docId": "Maxpoint/Productos/servicios17/27",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/uber-direct"
+              },
+              {
+                "type": "category",
+                "label": "VaucherAereolinea",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual voucher aerolineas",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios18/28",
+                    "docId": "Maxpoint/Productos/servicios18/28",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/vaucheraereolinea"
+              },
+              {
+                "type": "category",
+                "label": "Vitality",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual Configuracion Vitality",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/29",
+                    "docId": "Maxpoint/Productos/servicios19/29",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual de Usuario Proceso Vitality-POS",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/30",
+                    "docId": "Maxpoint/Productos/servicios19/30",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/vitality"
+              },
+              {
+                "type": "category",
+                "label": "Encuestas",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "PlugThen",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Encuesta de Satisfacción Cliente - Plug Them",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/7",
+                        "docId": "Maxpoint/Productos/servicios6/servicios7/7",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "Habilitar Encuesta de Satisfacción",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/8",
+                        "docId": "Maxpoint/Productos/servicios6/servicios7/8",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "Listado de los códigos HTTP más importantes",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/9",
+                        "docId": "Maxpoint/Productos/servicios6/servicios7/9",
+                        "unlisted": false
+                      }
+                    ],
+                    "href": "/documentacion-DSI/docs/category/plugthen"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Por productos ",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Manual - Configuración PlugThem Encuestas Producto",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios8/10",
+                        "docId": "Maxpoint/Productos/servicios6/servicios8/10",
+                        "unlisted": false
+                      }
+                    ],
+                    "href": "/documentacion-DSI/docs/category/por-productos-"
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/encuestas"
+              },
+              {
+                "type": "category",
+                "label": "MXP v1.9.15.5",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Creacion de productos desde maxpoint",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.1/11",
+                        "docId": "Maxpoint/Productos/servicios9/servicios9.1/11",
+                        "unlisted": false
+                      }
+                    ],
+                    "href": "/documentacion-DSI/docs/category/creacion-de-productos-desde-maxpoint"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Des relacionar cajas chicas desde Maxpoint",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Manual de configuración de politicas - Relacionar caja chica",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/12",
+                        "docId": "Maxpoint/Productos/servicios9/servicios9.2/12",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "Manual de politicas - desrelacionar cajas chicas",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/13",
+                        "docId": "Maxpoint/Productos/servicios9/servicios9.2/13",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "manualPoliticas ControlCajas SIR-MAXPOINT (1)",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/14",
+                        "docId": "Maxpoint/Productos/servicios9/servicios9.2/14",
+                        "unlisted": false
+                      }
+                    ],
+                    "href": "/documentacion-DSI/docs/category/des-relacionar-cajas-chicas-desde-maxpoint"
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/mxp-v19155"
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/productos"
+          },
+          {
+            "type": "category",
+            "label": "Restaurantes",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "category",
+                "label": "FullService",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "MANUAL FULL SERVICE 27-07-2017",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida1/c1",
+                    "docId": "Maxpoint/Restaurantes/comida1/c1",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/fullservice"
+              },
+              {
+                "type": "category",
+                "label": "Horarios",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual Uso Pantalla Horario",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida2/c2",
+                    "docId": "Maxpoint/Restaurantes/comida2/c2",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/horarios"
+              },
+              {
+                "type": "category",
+                "label": "Mantenimiento",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual_ReduccionBaseDatosTiendasMaxpoint_v2021",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida3/c3",
+                    "docId": "Maxpoint/Restaurantes/comida3/c3",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/mantenimiento"
+              },
+              {
+                "type": "category",
+                "label": "Manual de Cambios para eventos",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual de Configuracion Eventos",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida4/c4",
+                    "docId": "Maxpoint/Restaurantes/comida4/c4",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/manual-de-cambios-para-eventos"
+              },
+              {
+                "type": "category",
+                "label": "Instalacion de Reportes",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual de Usuario - Instalación de Reportes KFC",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida5/c5",
+                    "docId": "Maxpoint/Restaurantes/comida5/c5",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/instalacion-de-reportes"
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/restaurantes"
+          },
+          {
+            "type": "category",
+            "label": "Kiosko",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Etiquetas de impuestos dinámica V.1.9.7",
+                "href": "/documentacion-DSI/docs/Maxpoint/productoss/Descargar Productos y Precios",
+                "docId": "Maxpoint/productoss/Descargar Productos y Precios",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/kiosko"
+          }
+        ],
+        "href": "/documentacion-DSI/docs/category/maxpoint"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Basics",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/documentacion-DSI/docs/tutorial-basics/create-a-page",
+            "docId": "tutorial-basics/create-a-page",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/documentacion-DSI/docs/tutorial-basics/create-a-document",
+            "docId": "tutorial-basics/create-a-document",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/documentacion-DSI/docs/tutorial-basics/create-a-blog-post",
+            "docId": "tutorial-basics/create-a-blog-post",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/documentacion-DSI/docs/tutorial-basics/markdown-features",
+            "docId": "tutorial-basics/markdown-features",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/documentacion-DSI/docs/tutorial-basics/deploy-your-site",
+            "docId": "tutorial-basics/deploy-your-site",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/documentacion-DSI/docs/tutorial-basics/congratulations",
+            "docId": "tutorial-basics/congratulations",
+            "unlisted": false
+          }
+        ],
+        "href": "/documentacion-DSI/docs/category/tutorial---basics"
+      },
+      {
+        "type": "category",
+        "label": "Facturación Electronica",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Facturación Electronica",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "MANUAL DEL SISTEMA  MAXPOINT",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Maxpoint",
+                "href": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+                "docId": "Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+                "unlisted": false
+              }
+            ],
+            "href": "/documentacion-DSI/docs/category/facturación-electronica-1"
+          },
+          {
+            "type": "link",
+            "label": "Maxpoint",
+            "href": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint",
+            "docId": "Facturacion Electronica/Maxpoint",
+            "unlisted": false
+          }
+        ],
+        "href": "/documentacion-DSI/docs/category/facturación-electronica"
+      },
+      {
+        "type": "category",
+        "label": "Tutorial - Extras",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/documentacion-DSI/docs/tutorial-extras/manage-docs-versions",
+            "docId": "tutorial-extras/manage-docs-versions",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/documentacion-DSI/docs/tutorial-extras/translate-your-site",
+            "docId": "tutorial-extras/translate-your-site",
+            "unlisted": false
+          }
+        ],
+        "href": "/documentacion-DSI/docs/category/tutorial---extras"
+      }
+    ]
+  },
+  "docs": {
+    "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+      "title": "MANUAL DEL SISTEMA  MAXPOINT",
+      "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Facturacion Electronica copy/Maxpoint": {
+      "id": "Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+      "title": "Maxpoint",
+      "description": "first Docusaurus document!",
+      "sidebar": "tutorialSidebar"
+    },
+    "Facturacion Electronica/Maxpoint": {
+      "id": "Facturacion Electronica/Maxpoint",
+      "title": "Maxpoint",
+      "description": "first Docusaurus document!",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Tutorial Intro",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Manual del Sistema Maxpoint": {
+      "id": "Maxpoint/Manual del Sistema Maxpoint",
+      "title": "Manual del Sistema Maxpoint",
+      "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Servicios/Etiquetas": {
+      "id": "Maxpoint/Productos/Servicios/Etiquetas",
+      "title": "Etiquetas de impuestos dinámica V.1.9.7",
+      "description": "1 Antecedentes",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Servicios/Etiquetas copy": {
+      "id": "Maxpoint/Productos/Servicios/Etiquetas copy",
+      "title": "Habilitar Separación de Plus con Servicio 10%",
+      "description": "1 ANTECEDENTES",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios10/16": {
+      "id": "Maxpoint/Productos/servicios10/16",
+      "title": "Manual Notas de Crédito",
+      "description": "NOTAS DE CRÉDITO",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios10/17": {
+      "id": "Maxpoint/Productos/servicios10/17",
+      "title": "TEST CASES - NOTAS DE CRÉDITO",
+      "description": "MAXPOINT v1.9.10.6 NOTAS DE CRÉDITO",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios11/18": {
+      "id": "Maxpoint/Productos/servicios11/18",
+      "title": "Manual de usuario PayPhone",
+      "description": "1 DESCRIPCIÓN",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios11/19": {
+      "id": "Maxpoint/Productos/servicios11/19",
+      "title": "Manual para Configurar politicas PayPhone",
+      "description": "1 DESCRIPCIÓN",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios12/20": {
+      "id": "Maxpoint/Productos/servicios12/20",
+      "title": "Manual de Usuario politicas",
+      "description": "Manual para LA CONFIGURACIÓN DEl panel replicacion DESDE MAXPOINT HACIA api panel replicacion",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios13/21": {
+      "id": "Maxpoint/Productos/servicios13/21",
+      "title": "Manual de creacion de leyenda reclamos o sugerencias",
+      "description": "LEYENDA RECLAMOS O SUGERENCIAS",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios14/22": {
+      "id": "Maxpoint/Productos/servicios14/22",
+      "title": "Manual de politicas - RIA CONTROL V3",
+      "description": "1 ANTECEDENTES",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios15/23": {
+      "id": "Maxpoint/Productos/servicios15/23",
+      "title": "Manual Secuenciales y Ventas",
+      "description": "PANTALLA Administracion SEcuenciales y ventas.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios16/24": {
+      "id": "Maxpoint/Productos/servicios16/24",
+      "title": "Manual - Configuración Forma Pago Crédito Relacionado",
+      "description": "CONFIGURACIÓN FORMA PAGO – CRÉDITO RELACIONADO",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios16/25": {
+      "id": "Maxpoint/Productos/servicios16/25",
+      "title": "Manual - Configuración Políticas Validacion RUC",
+      "description": "VALIDACIÓN RUC",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios16/26": {
+      "id": "Maxpoint/Productos/servicios16/26",
+      "title": "Manual de politicas - CajaChica",
+      "description": "CONFIGURACIÓN POLÍTICA CAJA CHICA.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios17/27": {
+      "id": "Maxpoint/Productos/servicios17/27",
+      "title": "Manual de Configuración politicas UBER",
+      "description": "Manual DE CONFIGURACION de Integracion con UBER",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios18/28": {
+      "id": "Maxpoint/Productos/servicios18/28",
+      "title": "Manual voucher aerolineas",
+      "description": "CONFIGURACIÓN VOUCHER AEROLINEAS",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios19/29": {
+      "id": "Maxpoint/Productos/servicios19/29",
+      "title": "Manual Configuracion Vitality",
+      "description": "MANUAL DE CONFIGURACION PROCESO VITALITY",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios19/30": {
+      "id": "Maxpoint/Productos/servicios19/30",
+      "title": "Manual de Usuario Proceso Vitality-POS",
+      "description": "MANUAL DE USUARIO PROCESO VITALITY",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios2/archivo": {
+      "id": "Maxpoint/Productos/servicios2/archivo",
+      "title": "Manual Bases Replicacion",
+      "description": "## 1 OBJETIVOS",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Servicios3/1": {
+      "id": "Maxpoint/Productos/Servicios3/1",
+      "title": "Manual Configuración Restaurantes en Bringg 2021",
+      "description": "1. Configuracion de usuario",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Servicios3/2": {
+      "id": "Maxpoint/Productos/Servicios3/2",
+      "title": "Manual de Configuración politicas PEDIDOSYA",
+      "description": "1 DESCRIPCIÓN",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Servicios4/3": {
+      "id": "Maxpoint/Productos/Servicios4/3",
+      "title": "Manual - Politicas Identificador Cupones",
+      "description": "Creación de parametros a politica para Identificadores app",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Servicios4/3.2": {
+      "id": "Maxpoint/Productos/Servicios4/3.2",
+      "title": "3.2",
+      "description": "Sitio web de ejemplo",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/Servicios4/4": {
+      "id": "Maxpoint/Productos/Servicios4/4",
+      "title": "Manual - Identificador Cupones QR",
+      "description": "AGREGAR CAMPO IDENTIFICADOR Y CONTROL DE ESTADO",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios5/5": {
+      "id": "Maxpoint/Productos/servicios5/5",
+      "title": "Manual de Usuario Creación y Actualización de Productos",
+      "description": "Manual de USUARio PARA LA CREACIÓN Y ACTUALIZACIÓN DE PRODUCTOS, DESDE MAXPOINT HACIA SIR.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios5/6": {
+      "id": "Maxpoint/Productos/servicios5/6",
+      "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+      "description": "Manual para LA CONFIGURACIÓN DE CREACIÓN Y ACTUALIZACIÓN DE PRODUCTOS DESDE MAXPOINT HACIA SIR",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios6/servicios7/7": {
+      "id": "Maxpoint/Productos/servicios6/servicios7/7",
+      "title": "Encuesta de Satisfacción Cliente - Plug Them",
+      "description": "ENCUESTA DE SATISFACCIÓN AL CLIENTE.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios6/servicios7/8": {
+      "id": "Maxpoint/Productos/servicios6/servicios7/8",
+      "title": "Habilitar Encuesta de Satisfacción",
+      "description": "HABILITAR ENCUESTA DE SATISFACCIÓN AL CLIENTE",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios6/servicios7/9": {
+      "id": "Maxpoint/Productos/servicios6/servicios7/9",
+      "title": "Listado de los códigos HTTP más importantes",
+      "description": "Listado de los códigos HTTP más importantes",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios6/servicios8/10": {
+      "id": "Maxpoint/Productos/servicios6/servicios8/10",
+      "title": "Manual - Configuración PlugThem Encuestas Producto",
+      "description": "CONFIGURACIÓN ENCUESTA PRODUCTOS - PLUGTHEM.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios9/servicios9.1/11": {
+      "id": "Maxpoint/Productos/servicios9/servicios9.1/11",
+      "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+      "description": "Manual para LA CONFIGURACIÓN DE CREACIÓN Y ACTUALIZACIÓN DE PRODUCTOS DESDE MAXPOINT HACIA SIR",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios9/servicios9.2/12": {
+      "id": "Maxpoint/Productos/servicios9/servicios9.2/12",
+      "title": "Manual de configuración de politicas - Relacionar caja chica",
+      "description": "CONFIGURACIÓN POLÍTICA relacionar cajas chicas.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios9/servicios9.2/13": {
+      "id": "Maxpoint/Productos/servicios9/servicios9.2/13",
+      "title": "Manual de politicas - desrelacionar cajas chicas",
+      "description": "CONFIGURACIÓN POLÍTICA Des relacionar cajas chicas.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios9/servicios9.2/14": {
+      "id": "Maxpoint/Productos/servicios9/servicios9.2/14",
+      "title": "manualPoliticas ControlCajas SIR-MAXPOINT (1)",
+      "description": "Creación de parametro PARA CUADRE DE CAJA SIR-MAXPOINT",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/productoss/Descargar Productos y Precios": {
+      "id": "Maxpoint/productoss/Descargar Productos y Precios",
+      "title": "Etiquetas de impuestos dinámica V.1.9.7",
+      "description": "1 Antecedentes",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Restaurantes/comida1/c1": {
+      "id": "Maxpoint/Restaurantes/comida1/c1",
+      "title": "MANUAL FULL SERVICE 27-07-2017",
+      "description": "CONFIGURACIÓN FULL SERVICE",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Restaurantes/comida2/c2": {
+      "id": "Maxpoint/Restaurantes/comida2/c2",
+      "title": "Manual Uso Pantalla Horario",
+      "description": "MANUAL DE USO PANTALLA HORARIOS",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Restaurantes/comida3/c3": {
+      "id": "Maxpoint/Restaurantes/comida3/c3",
+      "title": "Manual_ReduccionBaseDatosTiendasMaxpoint_v2021",
+      "description": "Reducción de Base de Datos",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Restaurantes/comida4/c4": {
+      "id": "Maxpoint/Restaurantes/comida4/c4",
+      "title": "Manual de Configuracion Eventos",
+      "description": "CONFIGURACION DE VARIAS CADENAS EN UN SERVIDOR",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Restaurantes/comida5/c5": {
+      "id": "Maxpoint/Restaurantes/comida5/c5",
+      "title": "Manual de Usuario - Instalación de Reportes KFC",
+      "description": "Instalación de Reportes",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/congratulations": {
+      "id": "tutorial-basics/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-blog-post": {
+      "id": "tutorial-basics/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-document": {
+      "id": "tutorial-basics/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/create-a-page": {
+      "id": "tutorial-basics/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/deploy-your-site": {
+      "id": "tutorial-basics/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/markdown-features": {
+      "id": "tutorial-basics/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/manage-docs-versions": {
+      "id": "tutorial-extras/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-extras/translate-your-site": {
+      "id": "tutorial-extras/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

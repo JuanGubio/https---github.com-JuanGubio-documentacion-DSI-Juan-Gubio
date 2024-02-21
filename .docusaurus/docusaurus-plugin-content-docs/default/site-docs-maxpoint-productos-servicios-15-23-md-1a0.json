@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios15/23",
+  "title": "Manual Secuenciales y Ventas",
+  "description": "PANTALLA Administracion SEcuenciales y ventas.",
+  "source": "@site/docs/Maxpoint/Productos/servicios15/23.md",
+  "sourceDirName": "Maxpoint/Productos/servicios15",
+  "slug": "/Maxpoint/Productos/servicios15/23",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios15/23",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios15/23.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Secuencia_Ventas",
+    "permalink": "/documentacion-DSI/docs/category/secuencia_ventas"
+  },
+  "next": {
+    "title": "Configuracion de politicas mxp v 1.9.15.6",
+    "permalink": "/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156"
+  }
+}

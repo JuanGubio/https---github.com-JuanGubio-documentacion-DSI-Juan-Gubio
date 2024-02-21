@@ -1,0 +1,16 @@
+{
+  "title": "Por productos ",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/por-productos-",
+  "permalink": "/documentacion-DSI/docs/category/por-productos-",
+  "navigation": {
+    "previous": {
+      "title": "Listado de los códigos HTTP más importantes",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/9"
+    },
+    "next": {
+      "title": "Manual - Configuración PlugThem Encuestas Producto",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios8/10"
+    }
+  }
+}

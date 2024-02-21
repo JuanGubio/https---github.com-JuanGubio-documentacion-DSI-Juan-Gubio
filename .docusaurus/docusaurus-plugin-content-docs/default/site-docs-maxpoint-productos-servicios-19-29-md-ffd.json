@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios19/29",
+  "title": "Manual Configuracion Vitality",
+  "description": "MANUAL DE CONFIGURACION PROCESO VITALITY",
+  "source": "@site/docs/Maxpoint/Productos/servicios19/29.md",
+  "sourceDirName": "Maxpoint/Productos/servicios19",
+  "slug": "/Maxpoint/Productos/servicios19/29",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/29",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios19/29.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vitality",
+    "permalink": "/documentacion-DSI/docs/category/vitality"
+  },
+  "next": {
+    "title": "Manual de Usuario Proceso Vitality-POS",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/30"
+  }
+}

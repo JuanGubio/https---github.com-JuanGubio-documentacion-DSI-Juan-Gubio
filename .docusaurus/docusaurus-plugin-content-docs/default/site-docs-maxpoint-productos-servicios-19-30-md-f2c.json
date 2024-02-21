@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios19/30",
+  "title": "Manual de Usuario Proceso Vitality-POS",
+  "description": "MANUAL DE USUARIO PROCESO VITALITY",
+  "source": "@site/docs/Maxpoint/Productos/servicios19/30.md",
+  "sourceDirName": "Maxpoint/Productos/servicios19",
+  "slug": "/Maxpoint/Productos/servicios19/30",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/30",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios19/30.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Configuracion Vitality",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/29"
+  },
+  "next": {
+    "title": "Encuestas",
+    "permalink": "/documentacion-DSI/docs/category/encuestas"
+  }
+}

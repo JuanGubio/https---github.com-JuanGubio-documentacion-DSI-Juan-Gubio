@@ -1,0 +1,16 @@
+{
+  "title": "FullService",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/fullservice",
+  "permalink": "/documentacion-DSI/docs/category/fullservice",
+  "navigation": {
+    "previous": {
+      "title": "Restaurantes",
+      "permalink": "/documentacion-DSI/docs/category/restaurantes"
+    },
+    "next": {
+      "title": "MANUAL FULL SERVICE 27-07-2017",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida1/c1"
+    }
+  }
+}

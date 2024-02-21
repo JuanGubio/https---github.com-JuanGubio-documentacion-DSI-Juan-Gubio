@@ -1,0 +1,16 @@
+{
+  "title": "Configuracion de politicas mxp v 1.9.15.6",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/configuracion-de-politicas-mxp-v-19156",
+  "permalink": "/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156",
+  "navigation": {
+    "previous": {
+      "title": "Manual Secuenciales y Ventas",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios15/23"
+    },
+    "next": {
+      "title": "Manual - Configuración Forma Pago Crédito Relacionado",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/24"
+    }
+  }
+}

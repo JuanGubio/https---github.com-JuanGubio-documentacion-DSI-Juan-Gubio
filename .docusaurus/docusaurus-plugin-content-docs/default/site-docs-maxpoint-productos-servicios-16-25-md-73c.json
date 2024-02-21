@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios16/25",
+  "title": "Manual - Configuración Políticas Validacion RUC",
+  "description": "VALIDACIÓN RUC",
+  "source": "@site/docs/Maxpoint/Productos/servicios16/25.md",
+  "sourceDirName": "Maxpoint/Productos/servicios16",
+  "slug": "/Maxpoint/Productos/servicios16/25",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/25",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios16/25.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual - Configuración Forma Pago Crédito Relacionado",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/24"
+  },
+  "next": {
+    "title": "Manual de politicas - CajaChica",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/26"
+  }
+}

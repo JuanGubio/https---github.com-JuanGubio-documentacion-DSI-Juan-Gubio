@@ -1,0 +1,16 @@
+{
+  "title": "Integracion SIR",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/integracion-sir",
+  "permalink": "/documentacion-DSI/docs/category/integracion-sir",
+  "navigation": {
+    "previous": {
+      "title": "Manual - Identificador Cupones QR",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/4"
+    },
+    "next": {
+      "title": "Manual de Usuario Creación y Actualización de Productos",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/5"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Kiosko",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/kiosko",
+  "permalink": "/documentacion-DSI/docs/category/kiosko",
+  "navigation": {
+    "previous": {
+      "title": "Manual de Usuario - Instalación de Reportes KFC",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida5/c5"
+    },
+    "next": {
+      "title": "Etiquetas de impuestos dinámica V.1.9.7",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/productoss/Descargar Productos y Precios"
+    }
+  }
+}

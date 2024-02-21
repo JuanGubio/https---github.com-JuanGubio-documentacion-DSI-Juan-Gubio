@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios18/28",
+  "title": "Manual voucher aerolineas",
+  "description": "CONFIGURACIÓN VOUCHER AEROLINEAS",
+  "source": "@site/docs/Maxpoint/Productos/servicios18/28.md",
+  "sourceDirName": "Maxpoint/Productos/servicios18",
+  "slug": "/Maxpoint/Productos/servicios18/28",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios18/28",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios18/28.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "VaucherAereolinea",
+    "permalink": "/documentacion-DSI/docs/category/vaucheraereolinea"
+  },
+  "next": {
+    "title": "Vitality",
+    "permalink": "/documentacion-DSI/docs/category/vitality"
+  }
+}

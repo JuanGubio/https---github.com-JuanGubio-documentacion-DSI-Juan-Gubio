@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/Servicios/servicio1",
+  "title": "10%Servicios",
+  "description": "1.\tServicios",
+  "source": "@site/docs/Maxpoint/Productos/Servicios/servicio1.md",
+  "sourceDirName": "Maxpoint/Productos/Servicios",
+  "slug": "/Maxpoint/Productos/Servicios/servicio1",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/servicio1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios/servicio1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Productos",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Descargar Productos y Precios"
+  },
+  "next": {
+    "title": "Productos",
+    "permalink": "/documentacion-DSI/docs/category/productos-1"
+  }
+}

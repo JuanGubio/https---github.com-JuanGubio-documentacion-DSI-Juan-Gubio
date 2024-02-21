@@ -1,0 +1,16 @@
+{
+  "title": "Servicios",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/servicios",
+  "permalink": "/documentacion-DSI/docs/category/servicios",
+  "navigation": {
+    "previous": {
+      "title": "Productos",
+      "permalink": "/documentacion-DSI/docs/category/productos"
+    },
+    "next": {
+      "title": "Habilitar Separación de Plus con Servicio 10%",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas copy"
+    }
+  }
+}

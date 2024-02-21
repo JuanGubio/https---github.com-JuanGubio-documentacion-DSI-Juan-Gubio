@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios14/22",
+  "title": "Manual de politicas - RIA CONTROL V3",
+  "description": "1 ANTECEDENTES",
+  "source": "@site/docs/Maxpoint/Productos/servicios14/22.md",
+  "sourceDirName": "Maxpoint/Productos/servicios14",
+  "slug": "/Maxpoint/Productos/servicios14/22",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios14/22",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios14/22.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RIA CONTROL V3(PRODUCTOS ESPECIALES)",
+    "permalink": "/documentacion-DSI/docs/category/ria-control-v3productos-especiales"
+  },
+  "next": {
+    "title": "Secuencia_Ventas",
+    "permalink": "/documentacion-DSI/docs/category/secuencia_ventas"
+  }
+}

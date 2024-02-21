@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Restaurantes/comida2/c2",
+  "title": "Manual Uso Pantalla Horario",
+  "description": "MANUAL DE USO PANTALLA HORARIOS",
+  "source": "@site/docs/Maxpoint/Restaurantes/comida2/c2.md",
+  "sourceDirName": "Maxpoint/Restaurantes/comida2",
+  "slug": "/Maxpoint/Restaurantes/comida2/c2",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida2/c2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Restaurantes/comida2/c2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Horarios",
+    "permalink": "/documentacion-DSI/docs/category/horarios"
+  },
+  "next": {
+    "title": "Mantenimiento",
+    "permalink": "/documentacion-DSI/docs/category/mantenimiento"
+  }
+}

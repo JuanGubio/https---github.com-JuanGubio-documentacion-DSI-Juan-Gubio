@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios5/5",
+  "title": "Manual de Usuario Creación y Actualización de Productos",
+  "description": "Manual de USUARio PARA LA CREACIÓN Y ACTUALIZACIÓN DE PRODUCTOS, DESDE MAXPOINT HACIA SIR.",
+  "source": "@site/docs/Maxpoint/Productos/servicios5/5.md",
+  "sourceDirName": "Maxpoint/Productos/servicios5",
+  "slug": "/Maxpoint/Productos/servicios5/5",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios5/5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integracion SIR",
+    "permalink": "/documentacion-DSI/docs/category/integracion-sir"
+  },
+  "next": {
+    "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/6"
+  }
+}

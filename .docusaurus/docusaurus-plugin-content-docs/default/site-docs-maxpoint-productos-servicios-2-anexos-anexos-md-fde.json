@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios2/Anexos/anexos",
+  "title": "anexos",
+  "description": "",
+  "source": "@site/docs/Maxpoint/Productos/servicios2/Anexos/anexos.md",
+  "sourceDirName": "Maxpoint/Productos/servicios2/Anexos",
+  "slug": "/Maxpoint/Productos/servicios2/Anexos/",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/Anexos/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios2/Anexos/anexos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Bases Replicacion",
+    "permalink": "/documentacion-DSI/docs/category/manual-bases-replicacion"
+  },
+  "next": {
+    "title": "archivo",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo"
+  }
+}

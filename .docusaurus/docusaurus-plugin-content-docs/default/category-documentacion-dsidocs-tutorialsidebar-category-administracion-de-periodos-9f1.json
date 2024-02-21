@@ -1,0 +1,16 @@
+{
+  "title": "Administracion de periodos",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/administracion-de-periodos",
+  "permalink": "/documentacion-DSI/docs/category/administracion-de-periodos",
+  "navigation": {
+    "previous": {
+      "title": "Etiquetas de impuestos dinámica V.1.9.7",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas"
+    },
+    "next": {
+      "title": "Manual Bases Replicacion",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo"
+    }
+  }
+}

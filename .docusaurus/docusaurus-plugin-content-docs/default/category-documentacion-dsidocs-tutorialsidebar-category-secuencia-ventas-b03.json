@@ -1,0 +1,16 @@
+{
+  "title": "Secuencia_Ventas",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/secuencia_ventas",
+  "permalink": "/documentacion-DSI/docs/category/secuencia_ventas",
+  "navigation": {
+    "previous": {
+      "title": "Manual de politicas - RIA CONTROL V3",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios14/22"
+    },
+    "next": {
+      "title": "Manual Secuenciales y Ventas",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios15/23"
+    }
+  }
+}

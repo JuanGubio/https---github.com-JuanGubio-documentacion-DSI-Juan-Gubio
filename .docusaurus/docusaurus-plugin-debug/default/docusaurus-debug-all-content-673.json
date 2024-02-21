@@ -1,0 +1,2360 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/documentacion-DSI/docs",
+          "tagsPath": "/documentacion-DSI/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\JUANPI\\Desktop\\documentacion-DSI\\sidebars.js",
+          "contentPath": "C:\\Users\\JUANPI\\Desktop\\documentacion-DSI\\docs",
+          "contentPathLocalized": "C:\\Users\\JUANPI\\Desktop\\documentacion-DSI\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+              "title": "MANUAL DEL SISTEMA  MAXPOINT",
+              "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
+              "source": "@site/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT.md",
+              "sourceDirName": "Facturacion Electronica/Facturacion Electronica copy",
+              "slug": "/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+              "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Facturación Electronica",
+                "permalink": "/documentacion-DSI/docs/category/facturación-electronica-1"
+              },
+              "next": {
+                "title": "Maxpoint",
+                "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint"
+              }
+            },
+            {
+              "id": "Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+              "title": "Maxpoint",
+              "description": "first Docusaurus document!",
+              "source": "@site/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint.md",
+              "sourceDirName": "Facturacion Electronica/Facturacion Electronica copy",
+              "slug": "/Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+              "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "MANUAL DEL SISTEMA  MAXPOINT",
+                "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT"
+              },
+              "next": {
+                "title": "Maxpoint",
+                "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint"
+              }
+            },
+            {
+              "id": "Facturacion Electronica/Maxpoint",
+              "title": "Maxpoint",
+              "description": "first Docusaurus document!",
+              "source": "@site/docs/Facturacion Electronica/Maxpoint.md",
+              "sourceDirName": "Facturacion Electronica",
+              "slug": "/Facturacion Electronica/Maxpoint",
+              "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Maxpoint",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Facturacion Electronica/Maxpoint.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Maxpoint",
+                "permalink": "/documentacion-DSI/docs/Facturacion Electronica/Facturacion Electronica copy/Maxpoint"
+              },
+              "next": {
+                "title": "Tutorial - Extras",
+                "permalink": "/documentacion-DSI/docs/category/tutorial---extras"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/documentacion-DSI/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Maxpoint",
+                "permalink": "/documentacion-DSI/docs/category/maxpoint"
+              }
+            },
+            {
+              "id": "Maxpoint/Manual del Sistema Maxpoint",
+              "title": "Manual del Sistema Maxpoint",
+              "description": "Manual para productos, restaurantes, reportes, general, seguridades, depósitos y cadena.",
+              "source": "@site/docs/Maxpoint/Manual del Sistema Maxpoint.md",
+              "sourceDirName": "Maxpoint",
+              "slug": "/Maxpoint/Manual del Sistema Maxpoint",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Manual del Sistema Maxpoint.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Maxpoint",
+                "permalink": "/documentacion-DSI/docs/category/maxpoint"
+              },
+              "next": {
+                "title": "Productos",
+                "permalink": "/documentacion-DSI/docs/category/productos"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios/Etiquetas",
+              "title": "Etiquetas de impuestos dinámica V.1.9.7",
+              "description": "1 Antecedentes",
+              "source": "@site/docs/Maxpoint/Productos/Servicios/Etiquetas.md",
+              "sourceDirName": "Maxpoint/Productos/Servicios",
+              "slug": "/Maxpoint/Productos/Servicios/Etiquetas",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios/Etiquetas.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Habilitar Separación de Plus con Servicio 10%",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas copy"
+              },
+              "next": {
+                "title": "Bases_Replica",
+                "permalink": "/documentacion-DSI/docs/category/bases_replica"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios/Etiquetas copy",
+              "title": "Habilitar Separación de Plus con Servicio 10%",
+              "description": "1 ANTECEDENTES",
+              "source": "@site/docs/Maxpoint/Productos/Servicios/Etiquetas copy.md",
+              "sourceDirName": "Maxpoint/Productos/Servicios",
+              "slug": "/Maxpoint/Productos/Servicios/Etiquetas copy",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas copy",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios/Etiquetas copy.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Servicios",
+                "permalink": "/documentacion-DSI/docs/category/servicios"
+              },
+              "next": {
+                "title": "Etiquetas de impuestos dinámica V.1.9.7",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios/Etiquetas"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios10/16",
+              "title": "Manual Notas de Crédito",
+              "description": "NOTAS DE CRÉDITO",
+              "source": "@site/docs/Maxpoint/Productos/servicios10/16.md",
+              "sourceDirName": "Maxpoint/Productos/servicios10",
+              "slug": "/Maxpoint/Productos/servicios10/16",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/16",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios10/16.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Notas de credito",
+                "permalink": "/documentacion-DSI/docs/category/notas-de-credito"
+              },
+              "next": {
+                "title": "TEST CASES - NOTAS DE CRÉDITO",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/17"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios10/17",
+              "title": "TEST CASES - NOTAS DE CRÉDITO",
+              "description": "MAXPOINT v1.9.10.6 NOTAS DE CRÉDITO",
+              "source": "@site/docs/Maxpoint/Productos/servicios10/17.md",
+              "sourceDirName": "Maxpoint/Productos/servicios10",
+              "slug": "/Maxpoint/Productos/servicios10/17",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/17",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios10/17.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual Notas de Crédito",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/16"
+              },
+              "next": {
+                "title": "PAYPHONE",
+                "permalink": "/documentacion-DSI/docs/category/payphone"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios11/18",
+              "title": "Manual de usuario PayPhone",
+              "description": "1 DESCRIPCIÓN",
+              "source": "@site/docs/Maxpoint/Productos/servicios11/18.md",
+              "sourceDirName": "Maxpoint/Productos/servicios11",
+              "slug": "/Maxpoint/Productos/servicios11/18",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/18",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios11/18.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PAYPHONE",
+                "permalink": "/documentacion-DSI/docs/category/payphone"
+              },
+              "next": {
+                "title": "Manual para Configurar politicas PayPhone",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/19"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios11/19",
+              "title": "Manual para Configurar politicas PayPhone",
+              "description": "1 DESCRIPCIÓN",
+              "source": "@site/docs/Maxpoint/Productos/servicios11/19.md",
+              "sourceDirName": "Maxpoint/Productos/servicios11",
+              "slug": "/Maxpoint/Productos/servicios11/19",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/19",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios11/19.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual de usuario PayPhone",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/18"
+              },
+              "next": {
+                "title": "Replica V2",
+                "permalink": "/documentacion-DSI/docs/category/replica-v2"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios12/20",
+              "title": "Manual de Usuario politicas",
+              "description": "Manual para LA CONFIGURACIÓN DEl panel replicacion DESDE MAXPOINT HACIA api panel replicacion",
+              "source": "@site/docs/Maxpoint/Productos/servicios12/20.md",
+              "sourceDirName": "Maxpoint/Productos/servicios12",
+              "slug": "/Maxpoint/Productos/servicios12/20",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios12/20",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios12/20.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Replica V2",
+                "permalink": "/documentacion-DSI/docs/category/replica-v2"
+              },
+              "next": {
+                "title": "Reclamos y Sugerencia",
+                "permalink": "/documentacion-DSI/docs/category/reclamos-y-sugerencia"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios13/21",
+              "title": "Manual de creacion de leyenda reclamos o sugerencias",
+              "description": "LEYENDA RECLAMOS O SUGERENCIAS",
+              "source": "@site/docs/Maxpoint/Productos/servicios13/21.md",
+              "sourceDirName": "Maxpoint/Productos/servicios13",
+              "slug": "/Maxpoint/Productos/servicios13/21",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios13/21",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios13/21.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Reclamos y Sugerencia",
+                "permalink": "/documentacion-DSI/docs/category/reclamos-y-sugerencia"
+              },
+              "next": {
+                "title": "RIA CONTROL V3(PRODUCTOS ESPECIALES)",
+                "permalink": "/documentacion-DSI/docs/category/ria-control-v3productos-especiales"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios14/22",
+              "title": "Manual de politicas - RIA CONTROL V3",
+              "description": "1 ANTECEDENTES",
+              "source": "@site/docs/Maxpoint/Productos/servicios14/22.md",
+              "sourceDirName": "Maxpoint/Productos/servicios14",
+              "slug": "/Maxpoint/Productos/servicios14/22",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios14/22",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios14/22.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "RIA CONTROL V3(PRODUCTOS ESPECIALES)",
+                "permalink": "/documentacion-DSI/docs/category/ria-control-v3productos-especiales"
+              },
+              "next": {
+                "title": "Secuencia_Ventas",
+                "permalink": "/documentacion-DSI/docs/category/secuencia_ventas"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios15/23",
+              "title": "Manual Secuenciales y Ventas",
+              "description": "PANTALLA Administracion SEcuenciales y ventas.",
+              "source": "@site/docs/Maxpoint/Productos/servicios15/23.md",
+              "sourceDirName": "Maxpoint/Productos/servicios15",
+              "slug": "/Maxpoint/Productos/servicios15/23",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios15/23",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios15/23.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Secuencia_Ventas",
+                "permalink": "/documentacion-DSI/docs/category/secuencia_ventas"
+              },
+              "next": {
+                "title": "Configuracion de politicas mxp v 1.9.15.6",
+                "permalink": "/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios16/24",
+              "title": "Manual - Configuración Forma Pago Crédito Relacionado",
+              "description": "CONFIGURACIÓN FORMA PAGO – CRÉDITO RELACIONADO",
+              "source": "@site/docs/Maxpoint/Productos/servicios16/24.md",
+              "sourceDirName": "Maxpoint/Productos/servicios16",
+              "slug": "/Maxpoint/Productos/servicios16/24",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/24",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios16/24.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configuracion de politicas mxp v 1.9.15.6",
+                "permalink": "/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156"
+              },
+              "next": {
+                "title": "Manual - Configuración Políticas Validacion RUC",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/25"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios16/25",
+              "title": "Manual - Configuración Políticas Validacion RUC",
+              "description": "VALIDACIÓN RUC",
+              "source": "@site/docs/Maxpoint/Productos/servicios16/25.md",
+              "sourceDirName": "Maxpoint/Productos/servicios16",
+              "slug": "/Maxpoint/Productos/servicios16/25",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/25",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios16/25.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual - Configuración Forma Pago Crédito Relacionado",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/24"
+              },
+              "next": {
+                "title": "Manual de politicas - CajaChica",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/26"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios16/26",
+              "title": "Manual de politicas - CajaChica",
+              "description": "CONFIGURACIÓN POLÍTICA CAJA CHICA.",
+              "source": "@site/docs/Maxpoint/Productos/servicios16/26.md",
+              "sourceDirName": "Maxpoint/Productos/servicios16",
+              "slug": "/Maxpoint/Productos/servicios16/26",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/26",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios16/26.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual - Configuración Políticas Validacion RUC",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios16/25"
+              },
+              "next": {
+                "title": "UBER DIRECT",
+                "permalink": "/documentacion-DSI/docs/category/uber-direct"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios17/27",
+              "title": "Manual de Configuración politicas UBER",
+              "description": "Manual DE CONFIGURACION de Integracion con UBER",
+              "source": "@site/docs/Maxpoint/Productos/servicios17/27.md",
+              "sourceDirName": "Maxpoint/Productos/servicios17",
+              "slug": "/Maxpoint/Productos/servicios17/27",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios17/27",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios17/27.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "UBER DIRECT",
+                "permalink": "/documentacion-DSI/docs/category/uber-direct"
+              },
+              "next": {
+                "title": "VaucherAereolinea",
+                "permalink": "/documentacion-DSI/docs/category/vaucheraereolinea"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios18/28",
+              "title": "Manual voucher aerolineas",
+              "description": "CONFIGURACIÓN VOUCHER AEROLINEAS",
+              "source": "@site/docs/Maxpoint/Productos/servicios18/28.md",
+              "sourceDirName": "Maxpoint/Productos/servicios18",
+              "slug": "/Maxpoint/Productos/servicios18/28",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios18/28",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios18/28.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "VaucherAereolinea",
+                "permalink": "/documentacion-DSI/docs/category/vaucheraereolinea"
+              },
+              "next": {
+                "title": "Vitality",
+                "permalink": "/documentacion-DSI/docs/category/vitality"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios19/29",
+              "title": "Manual Configuracion Vitality",
+              "description": "MANUAL DE CONFIGURACION PROCESO VITALITY",
+              "source": "@site/docs/Maxpoint/Productos/servicios19/29.md",
+              "sourceDirName": "Maxpoint/Productos/servicios19",
+              "slug": "/Maxpoint/Productos/servicios19/29",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/29",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios19/29.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Vitality",
+                "permalink": "/documentacion-DSI/docs/category/vitality"
+              },
+              "next": {
+                "title": "Manual de Usuario Proceso Vitality-POS",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/30"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios19/30",
+              "title": "Manual de Usuario Proceso Vitality-POS",
+              "description": "MANUAL DE USUARIO PROCESO VITALITY",
+              "source": "@site/docs/Maxpoint/Productos/servicios19/30.md",
+              "sourceDirName": "Maxpoint/Productos/servicios19",
+              "slug": "/Maxpoint/Productos/servicios19/30",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/30",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios19/30.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual Configuracion Vitality",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/29"
+              },
+              "next": {
+                "title": "Encuestas",
+                "permalink": "/documentacion-DSI/docs/category/encuestas"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios2/archivo",
+              "title": "Manual Bases Replicacion",
+              "description": "## 1 OBJETIVOS",
+              "source": "@site/docs/Maxpoint/Productos/servicios2/archivo.md",
+              "sourceDirName": "Maxpoint/Productos/servicios2",
+              "slug": "/Maxpoint/Productos/servicios2/archivo",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios2/archivo.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bases_Replica",
+                "permalink": "/documentacion-DSI/docs/category/bases_replica"
+              },
+              "next": {
+                "title": "Bringg y Peya ",
+                "permalink": "/documentacion-DSI/docs/category/bringg-y-peya-"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios3/1",
+              "title": "Manual Configuración Restaurantes en Bringg 2021",
+              "description": "1. Configuracion de usuario",
+              "source": "@site/docs/Maxpoint/Productos/Servicios3/1.md",
+              "sourceDirName": "Maxpoint/Productos/Servicios3",
+              "slug": "/Maxpoint/Productos/Servicios3/1",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/1",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios3/1.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Bringg y Peya ",
+                "permalink": "/documentacion-DSI/docs/category/bringg-y-peya-"
+              },
+              "next": {
+                "title": "Manual de Configuración politicas PEDIDOSYA",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/2"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios3/2",
+              "title": "Manual de Configuración politicas PEDIDOSYA",
+              "description": "1 DESCRIPCIÓN",
+              "source": "@site/docs/Maxpoint/Productos/Servicios3/2.md",
+              "sourceDirName": "Maxpoint/Productos/Servicios3",
+              "slug": "/Maxpoint/Productos/Servicios3/2",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios3/2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual Configuración Restaurantes en Bringg 2021",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/1"
+              },
+              "next": {
+                "title": "Identificadores App ",
+                "permalink": "/documentacion-DSI/docs/category/identificadores-app-"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios4/3",
+              "title": "Manual - Politicas Identificador Cupones",
+              "description": "Creación de parametros a politica para Identificadores app",
+              "source": "@site/docs/Maxpoint/Productos/Servicios4/3.md",
+              "sourceDirName": "Maxpoint/Productos/Servicios4",
+              "slug": "/Maxpoint/Productos/Servicios4/3",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios4/3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.2",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3.2"
+              },
+              "next": {
+                "title": "Manual - Identificador Cupones QR",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/4"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios4/3.2",
+              "title": "3.2",
+              "description": "Sitio web de ejemplo",
+              "source": "@site/docs/Maxpoint/Productos/Servicios4/3.2.md",
+              "sourceDirName": "Maxpoint/Productos/Servicios4",
+              "slug": "/Maxpoint/Productos/Servicios4/3.2",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3.2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios4/3.2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Identificadores App ",
+                "permalink": "/documentacion-DSI/docs/category/identificadores-app-"
+              },
+              "next": {
+                "title": "Manual - Politicas Identificador Cupones",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/Servicios4/4",
+              "title": "Manual - Identificador Cupones QR",
+              "description": "AGREGAR CAMPO IDENTIFICADOR Y CONTROL DE ESTADO",
+              "source": "@site/docs/Maxpoint/Productos/Servicios4/4.md",
+              "sourceDirName": "Maxpoint/Productos/Servicios4",
+              "slug": "/Maxpoint/Productos/Servicios4/4",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/4",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/Servicios4/4.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual - Politicas Identificador Cupones",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/Servicios4/3"
+              },
+              "next": {
+                "title": "Integracion SIR",
+                "permalink": "/documentacion-DSI/docs/category/integracion-sir"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios5/5",
+              "title": "Manual de Usuario Creación y Actualización de Productos",
+              "description": "Manual de USUARio PARA LA CREACIÓN Y ACTUALIZACIÓN DE PRODUCTOS, DESDE MAXPOINT HACIA SIR.",
+              "source": "@site/docs/Maxpoint/Productos/servicios5/5.md",
+              "sourceDirName": "Maxpoint/Productos/servicios5",
+              "slug": "/Maxpoint/Productos/servicios5/5",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/5",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios5/5.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integracion SIR",
+                "permalink": "/documentacion-DSI/docs/category/integracion-sir"
+              },
+              "next": {
+                "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/6"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios5/6",
+              "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+              "description": "Manual para LA CONFIGURACIÓN DE CREACIÓN Y ACTUALIZACIÓN DE PRODUCTOS DESDE MAXPOINT HACIA SIR",
+              "source": "@site/docs/Maxpoint/Productos/servicios5/6.md",
+              "sourceDirName": "Maxpoint/Productos/servicios5",
+              "slug": "/Maxpoint/Productos/servicios5/6",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/6",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios5/6.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual de Usuario Creación y Actualización de Productos",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/5"
+              },
+              "next": {
+                "title": "Notas de credito",
+                "permalink": "/documentacion-DSI/docs/category/notas-de-credito"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios6/servicios7/7",
+              "title": "Encuesta de Satisfacción Cliente - Plug Them",
+              "description": "ENCUESTA DE SATISFACCIÓN AL CLIENTE.",
+              "source": "@site/docs/Maxpoint/Productos/servicios6/servicios7/7.md",
+              "sourceDirName": "Maxpoint/Productos/servicios6/servicios7",
+              "slug": "/Maxpoint/Productos/servicios6/servicios7/7",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/7",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios6/servicios7/7.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PlugThen",
+                "permalink": "/documentacion-DSI/docs/category/plugthen"
+              },
+              "next": {
+                "title": "Habilitar Encuesta de Satisfacción",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/8"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios6/servicios7/8",
+              "title": "Habilitar Encuesta de Satisfacción",
+              "description": "HABILITAR ENCUESTA DE SATISFACCIÓN AL CLIENTE",
+              "source": "@site/docs/Maxpoint/Productos/servicios6/servicios7/8.md",
+              "sourceDirName": "Maxpoint/Productos/servicios6/servicios7",
+              "slug": "/Maxpoint/Productos/servicios6/servicios7/8",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/8",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios6/servicios7/8.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Encuesta de Satisfacción Cliente - Plug Them",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/7"
+              },
+              "next": {
+                "title": "Listado de los códigos HTTP más importantes",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/9"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios6/servicios7/9",
+              "title": "Listado de los códigos HTTP más importantes",
+              "description": "Listado de los códigos HTTP más importantes",
+              "source": "@site/docs/Maxpoint/Productos/servicios6/servicios7/9.md",
+              "sourceDirName": "Maxpoint/Productos/servicios6/servicios7",
+              "slug": "/Maxpoint/Productos/servicios6/servicios7/9",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/9",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios6/servicios7/9.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Habilitar Encuesta de Satisfacción",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/8"
+              },
+              "next": {
+                "title": "Por productos ",
+                "permalink": "/documentacion-DSI/docs/category/por-productos-"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios6/servicios8/10",
+              "title": "Manual - Configuración PlugThem Encuestas Producto",
+              "description": "CONFIGURACIÓN ENCUESTA PRODUCTOS - PLUGTHEM.",
+              "source": "@site/docs/Maxpoint/Productos/servicios6/servicios8/10.md",
+              "sourceDirName": "Maxpoint/Productos/servicios6/servicios8",
+              "slug": "/Maxpoint/Productos/servicios6/servicios8/10",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios8/10",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios6/servicios8/10.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Por productos ",
+                "permalink": "/documentacion-DSI/docs/category/por-productos-"
+              },
+              "next": {
+                "title": "MXP v1.9.15.5",
+                "permalink": "/documentacion-DSI/docs/category/mxp-v19155"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios9/servicios9.1/11",
+              "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+              "description": "Manual para LA CONFIGURACIÓN DE CREACIÓN Y ACTUALIZACIÓN DE PRODUCTOS DESDE MAXPOINT HACIA SIR",
+              "source": "@site/docs/Maxpoint/Productos/servicios9/servicios9.1/11.md",
+              "sourceDirName": "Maxpoint/Productos/servicios9/servicios9.1",
+              "slug": "/Maxpoint/Productos/servicios9/servicios9.1/11",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.1/11",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios9/servicios9.1/11.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Creacion de productos desde maxpoint",
+                "permalink": "/documentacion-DSI/docs/category/creacion-de-productos-desde-maxpoint"
+              },
+              "next": {
+                "title": "Des relacionar cajas chicas desde Maxpoint",
+                "permalink": "/documentacion-DSI/docs/category/des-relacionar-cajas-chicas-desde-maxpoint"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios9/servicios9.2/12",
+              "title": "Manual de configuración de politicas - Relacionar caja chica",
+              "description": "CONFIGURACIÓN POLÍTICA relacionar cajas chicas.",
+              "source": "@site/docs/Maxpoint/Productos/servicios9/servicios9.2/12.md",
+              "sourceDirName": "Maxpoint/Productos/servicios9/servicios9.2",
+              "slug": "/Maxpoint/Productos/servicios9/servicios9.2/12",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/12",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios9/servicios9.2/12.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Des relacionar cajas chicas desde Maxpoint",
+                "permalink": "/documentacion-DSI/docs/category/des-relacionar-cajas-chicas-desde-maxpoint"
+              },
+              "next": {
+                "title": "Manual de politicas - desrelacionar cajas chicas",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/13"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios9/servicios9.2/13",
+              "title": "Manual de politicas - desrelacionar cajas chicas",
+              "description": "CONFIGURACIÓN POLÍTICA Des relacionar cajas chicas.",
+              "source": "@site/docs/Maxpoint/Productos/servicios9/servicios9.2/13.md",
+              "sourceDirName": "Maxpoint/Productos/servicios9/servicios9.2",
+              "slug": "/Maxpoint/Productos/servicios9/servicios9.2/13",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/13",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios9/servicios9.2/13.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual de configuración de politicas - Relacionar caja chica",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/12"
+              },
+              "next": {
+                "title": "manualPoliticas ControlCajas SIR-MAXPOINT (1)",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/14"
+              }
+            },
+            {
+              "id": "Maxpoint/Productos/servicios9/servicios9.2/14",
+              "title": "manualPoliticas ControlCajas SIR-MAXPOINT (1)",
+              "description": "Creación de parametro PARA CUADRE DE CAJA SIR-MAXPOINT",
+              "source": "@site/docs/Maxpoint/Productos/servicios9/servicios9.2/14.md",
+              "sourceDirName": "Maxpoint/Productos/servicios9/servicios9.2",
+              "slug": "/Maxpoint/Productos/servicios9/servicios9.2/14",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/14",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios9/servicios9.2/14.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual de politicas - desrelacionar cajas chicas",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/13"
+              },
+              "next": {
+                "title": "Restaurantes",
+                "permalink": "/documentacion-DSI/docs/category/restaurantes"
+              }
+            },
+            {
+              "id": "Maxpoint/productoss/Descargar Productos y Precios",
+              "title": "Etiquetas de impuestos dinámica V.1.9.7",
+              "description": "1 Antecedentes",
+              "source": "@site/docs/Maxpoint/productoss/Descargar Productos y Precios.md",
+              "sourceDirName": "Maxpoint/productoss",
+              "slug": "/Maxpoint/productoss/Descargar Productos y Precios",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/productoss/Descargar Productos y Precios",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/productoss/Descargar Productos y Precios.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Kiosko",
+                "permalink": "/documentacion-DSI/docs/category/kiosko"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/documentacion-DSI/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida1/c1",
+              "title": "MANUAL FULL SERVICE 27-07-2017",
+              "description": "CONFIGURACIÓN FULL SERVICE",
+              "source": "@site/docs/Maxpoint/Restaurantes/comida1/c1.md",
+              "sourceDirName": "Maxpoint/Restaurantes/comida1",
+              "slug": "/Maxpoint/Restaurantes/comida1/c1",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida1/c1",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Restaurantes/comida1/c1.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FullService",
+                "permalink": "/documentacion-DSI/docs/category/fullservice"
+              },
+              "next": {
+                "title": "Horarios",
+                "permalink": "/documentacion-DSI/docs/category/horarios"
+              }
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida2/c2",
+              "title": "Manual Uso Pantalla Horario",
+              "description": "MANUAL DE USO PANTALLA HORARIOS",
+              "source": "@site/docs/Maxpoint/Restaurantes/comida2/c2.md",
+              "sourceDirName": "Maxpoint/Restaurantes/comida2",
+              "slug": "/Maxpoint/Restaurantes/comida2/c2",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida2/c2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Restaurantes/comida2/c2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Horarios",
+                "permalink": "/documentacion-DSI/docs/category/horarios"
+              },
+              "next": {
+                "title": "Mantenimiento",
+                "permalink": "/documentacion-DSI/docs/category/mantenimiento"
+              }
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida3/c3",
+              "title": "Manual_ReduccionBaseDatosTiendasMaxpoint_v2021",
+              "description": "Reducción de Base de Datos",
+              "source": "@site/docs/Maxpoint/Restaurantes/comida3/c3.md",
+              "sourceDirName": "Maxpoint/Restaurantes/comida3",
+              "slug": "/Maxpoint/Restaurantes/comida3/c3",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida3/c3",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Restaurantes/comida3/c3.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Mantenimiento",
+                "permalink": "/documentacion-DSI/docs/category/mantenimiento"
+              },
+              "next": {
+                "title": "Manual de Cambios para eventos",
+                "permalink": "/documentacion-DSI/docs/category/manual-de-cambios-para-eventos"
+              }
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida4/c4",
+              "title": "Manual de Configuracion Eventos",
+              "description": "CONFIGURACION DE VARIAS CADENAS EN UN SERVIDOR",
+              "source": "@site/docs/Maxpoint/Restaurantes/comida4/c4.md",
+              "sourceDirName": "Maxpoint/Restaurantes/comida4",
+              "slug": "/Maxpoint/Restaurantes/comida4/c4",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida4/c4",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Restaurantes/comida4/c4.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manual de Cambios para eventos",
+                "permalink": "/documentacion-DSI/docs/category/manual-de-cambios-para-eventos"
+              },
+              "next": {
+                "title": "Instalacion de Reportes",
+                "permalink": "/documentacion-DSI/docs/category/instalacion-de-reportes"
+              }
+            },
+            {
+              "id": "Maxpoint/Restaurantes/comida5/c5",
+              "title": "Manual de Usuario - Instalación de Reportes KFC",
+              "description": "Instalación de Reportes",
+              "source": "@site/docs/Maxpoint/Restaurantes/comida5/c5.md",
+              "sourceDirName": "Maxpoint/Restaurantes/comida5",
+              "slug": "/Maxpoint/Restaurantes/comida5/c5",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida5/c5",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Restaurantes/comida5/c5.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Instalacion de Reportes",
+                "permalink": "/documentacion-DSI/docs/category/instalacion-de-reportes"
+              },
+              "next": {
+                "title": "Kiosko",
+                "permalink": "/documentacion-DSI/docs/category/kiosko"
+              }
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/tutorial-basics/congratulations.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/congratulations",
+              "permalink": "/documentacion-DSI/docs/tutorial-basics/congratulations",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/congratulations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/deploy-your-site"
+              },
+              "next": {
+                "title": "Facturación Electronica",
+                "permalink": "/documentacion-DSI/docs/category/facturación-electronica"
+              }
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-blog-post",
+              "permalink": "/documentacion-DSI/docs/tutorial-basics/create-a-blog-post",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/tutorial-basics/create-a-document.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-document",
+              "permalink": "/documentacion-DSI/docs/tutorial-basics/create-a-document",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/create-a-blog-post"
+              }
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/tutorial-basics/create-a-page.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/create-a-page",
+              "permalink": "/documentacion-DSI/docs/tutorial-basics/create-a-page",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Basics",
+                "permalink": "/documentacion-DSI/docs/category/tutorial---basics"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/create-a-document"
+              }
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-your-site",
+              "permalink": "/documentacion-DSI/docs/tutorial-basics/deploy-your-site",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/congratulations"
+              }
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/markdown-features",
+              "permalink": "/documentacion-DSI/docs/tutorial-basics/markdown-features",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/documentacion-DSI/docs/tutorial-basics/deploy-your-site"
+              }
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/manage-docs-versions",
+              "permalink": "/documentacion-DSI/docs/tutorial-extras/manage-docs-versions",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorial - Extras",
+                "permalink": "/documentacion-DSI/docs/category/tutorial---extras"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/documentacion-DSI/docs/tutorial-extras/translate-your-site"
+              }
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorial-extras/translate-your-site.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/translate-your-site",
+              "permalink": "/documentacion-DSI/docs/tutorial-extras/translate-your-site",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/documentacion-DSI/docs/tutorial-extras/manage-docs-versions"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Maxpoint",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Maxpoint/Manual del Sistema Maxpoint"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Productos",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Servicios",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Servicios/Etiquetas copy"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Servicios/Etiquetas"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/servicios",
+                          "permalink": "/documentacion-DSI/docs/category/servicios"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Bases_Replica",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios2/archivo"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/bases_replica",
+                          "permalink": "/documentacion-DSI/docs/category/bases_replica"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Bringg y Peya ",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Servicios3/1"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Servicios3/2"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/bringg-y-peya-",
+                          "permalink": "/documentacion-DSI/docs/category/bringg-y-peya-"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Identificadores App ",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Servicios4/3.2"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Servicios4/3"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/Servicios4/4"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/identificadores-app-",
+                          "permalink": "/documentacion-DSI/docs/category/identificadores-app-"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Integracion SIR",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios5/5"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios5/6"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/integracion-sir",
+                          "permalink": "/documentacion-DSI/docs/category/integracion-sir"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Notas de credito",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios10/16"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios10/17"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/notas-de-credito",
+                          "permalink": "/documentacion-DSI/docs/category/notas-de-credito"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "PAYPHONE",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios11/18"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios11/19"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/payphone",
+                          "permalink": "/documentacion-DSI/docs/category/payphone"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Replica V2",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios12/20"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/replica-v2",
+                          "permalink": "/documentacion-DSI/docs/category/replica-v2"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Reclamos y Sugerencia",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios13/21"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/reclamos-y-sugerencia",
+                          "permalink": "/documentacion-DSI/docs/category/reclamos-y-sugerencia"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "RIA CONTROL V3(PRODUCTOS ESPECIALES)",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios14/22"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/ria-control-v3productos-especiales",
+                          "permalink": "/documentacion-DSI/docs/category/ria-control-v3productos-especiales"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Secuencia_Ventas",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios15/23"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/secuencia_ventas",
+                          "permalink": "/documentacion-DSI/docs/category/secuencia_ventas"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Configuracion de politicas mxp v 1.9.15.6",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios16/24"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios16/25"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios16/26"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/configuracion-de-politicas-mxp-v-19156",
+                          "permalink": "/documentacion-DSI/docs/category/configuracion-de-politicas-mxp-v-19156"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "UBER DIRECT",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios17/27"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/uber-direct",
+                          "permalink": "/documentacion-DSI/docs/category/uber-direct"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "VaucherAereolinea",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios18/28"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/vaucheraereolinea",
+                          "permalink": "/documentacion-DSI/docs/category/vaucheraereolinea"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Vitality",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios19/29"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Productos/servicios19/30"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/vitality",
+                          "permalink": "/documentacion-DSI/docs/category/vitality"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Encuestas",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "category",
+                            "label": "PlugThen",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "Maxpoint/Productos/servicios6/servicios7/7"
+                              },
+                              {
+                                "type": "doc",
+                                "id": "Maxpoint/Productos/servicios6/servicios7/8"
+                              },
+                              {
+                                "type": "doc",
+                                "id": "Maxpoint/Productos/servicios6/servicios7/9"
+                              }
+                            ],
+                            "link": {
+                              "type": "generated-index",
+                              "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                              "slug": "/category/plugthen",
+                              "permalink": "/documentacion-DSI/docs/category/plugthen"
+                            }
+                          },
+                          {
+                            "type": "category",
+                            "label": "Por productos ",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "Maxpoint/Productos/servicios6/servicios8/10"
+                              }
+                            ],
+                            "link": {
+                              "type": "generated-index",
+                              "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                              "slug": "/category/por-productos-",
+                              "permalink": "/documentacion-DSI/docs/category/por-productos-"
+                            }
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/encuestas",
+                          "permalink": "/documentacion-DSI/docs/category/encuestas"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "MXP v1.9.15.5",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "category",
+                            "label": "Creacion de productos desde maxpoint",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "Maxpoint/Productos/servicios9/servicios9.1/11"
+                              }
+                            ],
+                            "link": {
+                              "type": "generated-index",
+                              "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                              "slug": "/category/creacion-de-productos-desde-maxpoint",
+                              "permalink": "/documentacion-DSI/docs/category/creacion-de-productos-desde-maxpoint"
+                            }
+                          },
+                          {
+                            "type": "category",
+                            "label": "Des relacionar cajas chicas desde Maxpoint",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "Maxpoint/Productos/servicios9/servicios9.2/12"
+                              },
+                              {
+                                "type": "doc",
+                                "id": "Maxpoint/Productos/servicios9/servicios9.2/13"
+                              },
+                              {
+                                "type": "doc",
+                                "id": "Maxpoint/Productos/servicios9/servicios9.2/14"
+                              }
+                            ],
+                            "link": {
+                              "type": "generated-index",
+                              "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                              "slug": "/category/des-relacionar-cajas-chicas-desde-maxpoint",
+                              "permalink": "/documentacion-DSI/docs/category/des-relacionar-cajas-chicas-desde-maxpoint"
+                            }
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/mxp-v19155",
+                          "permalink": "/documentacion-DSI/docs/category/mxp-v19155"
+                        }
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                      "slug": "/category/productos",
+                      "permalink": "/documentacion-DSI/docs/category/productos"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Restaurantes",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "FullService",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Restaurantes/comida1/c1"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/fullservice",
+                          "permalink": "/documentacion-DSI/docs/category/fullservice"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Horarios",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Restaurantes/comida2/c2"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/horarios",
+                          "permalink": "/documentacion-DSI/docs/category/horarios"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Mantenimiento",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Restaurantes/comida3/c3"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/mantenimiento",
+                          "permalink": "/documentacion-DSI/docs/category/mantenimiento"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Manual de Cambios para eventos",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Restaurantes/comida4/c4"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/manual-de-cambios-para-eventos",
+                          "permalink": "/documentacion-DSI/docs/category/manual-de-cambios-para-eventos"
+                        }
+                      },
+                      {
+                        "type": "category",
+                        "label": "Instalacion de Reportes",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "Maxpoint/Restaurantes/comida5/c5"
+                          }
+                        ],
+                        "link": {
+                          "type": "generated-index",
+                          "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                          "slug": "/category/instalacion-de-reportes",
+                          "permalink": "/documentacion-DSI/docs/category/instalacion-de-reportes"
+                        }
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                      "slug": "/category/restaurantes",
+                      "permalink": "/documentacion-DSI/docs/category/restaurantes"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Kiosko",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Maxpoint/productoss/Descargar Productos y Precios"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                      "slug": "/category/kiosko",
+                      "permalink": "/documentacion-DSI/docs/category/kiosko"
+                    }
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+                  "slug": "/category/maxpoint",
+                  "permalink": "/documentacion-DSI/docs/category/maxpoint"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Basics",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/tutorial---basics",
+                  "permalink": "/documentacion-DSI/docs/category/tutorial---basics"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Facturación Electronica",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Facturación Electronica",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Facturacion Electronica/Facturacion Electronica copy/MANUAL DEL SISTEMA  MAXPOINT"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "Facturacion Electronica/Facturacion Electronica copy/Maxpoint"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "FE",
+                      "slug": "/category/facturación-electronica-1",
+                      "permalink": "/documentacion-DSI/docs/category/facturación-electronica-1"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Facturacion Electronica/Maxpoint"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "FE",
+                  "slug": "/category/facturación-electronica",
+                  "permalink": "/documentacion-DSI/docs/category/facturación-electronica"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorial - Extras",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorial---extras",
+                  "permalink": "/documentacion-DSI/docs/category/tutorial---extras"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/documentacion-DSI/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/documentacion-DSI/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/documentacion-DSI/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/documentacion-DSI/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/documentacion-DSI/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\r\n\r\nSimply add Markdown files (or folders) to the `blog` directory.\r\n\r\nRegular blog authors can be added to `authors.yml`.\r\n\r\nThe blog post date can be extracted from filenames, such as:\r\n\r\n- `2019-05-30-welcome.md`\r\n- `2019-05-30-welcome/index.md`\r\n\r\nA blog post folder can be convenient to co-locate blog post images:\r\n\r\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\r\n\r\nThe blog supports tags as well!\r\n\r\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/documentacion-DSI/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/documentacion-DSI/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/documentacion-DSI/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/documentacion-DSI/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\r\n\r\n:::tip\r\n\r\nUse the power of React to create interactive blog posts.\r\n\r\n```js\r\n<button onClick={() => alert('button clicked!')}>Click me!</button>\r\n```\r\n\r\n<button onClick={() => alert('button clicked!')}>Click me!</button>\r\n\r\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/documentacion-DSI/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/documentacion-DSI/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/documentacion-DSI/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/documentacion-DSI/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/documentacion-DSI/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\r\n\r\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\r\n\r\n<!--truncate-->\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/documentacion-DSI/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/documentacion-DSI/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/documentacion-DSI/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/documentacion-DSI/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/documentacion-DSI/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/documentacion-DSI/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/documentacion-DSI/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/documentacion-DSI/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/documentacion-DSI/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/documentacion-DSI/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/documentacion-DSI/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/documentacion-DSI/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/documentacion-DSI/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/documentacion-DSI/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/documentacion-DSI/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/documentacion-DSI/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/documentacion-DSI/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      },
+      "blogTagsListPath": "/documentacion-DSI/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/documentacion-DSI/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/documentacion-DSI/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

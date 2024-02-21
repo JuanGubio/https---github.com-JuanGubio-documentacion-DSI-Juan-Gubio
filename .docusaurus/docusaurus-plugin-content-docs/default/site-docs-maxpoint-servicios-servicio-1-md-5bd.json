@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/servicios/servicio1",
+  "title": "10%Servicios",
+  "description": "1.\tServicios",
+  "source": "@site/docs/Maxpoint/servicios/servicio1.md",
+  "sourceDirName": "Maxpoint/servicios",
+  "slug": "/Maxpoint/servicios/servicio1",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/servicios/servicio1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/servicios/servicio1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Servicios",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/servicios/"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/documentacion-DSI/docs/category/tutorial---basics"
+  }
+}

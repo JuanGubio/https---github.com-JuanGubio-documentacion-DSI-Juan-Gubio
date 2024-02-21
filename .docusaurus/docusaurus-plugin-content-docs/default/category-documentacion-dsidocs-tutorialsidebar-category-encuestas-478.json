@@ -1,0 +1,16 @@
+{
+  "title": "Encuestas",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/encuestas",
+  "permalink": "/documentacion-DSI/docs/category/encuestas",
+  "navigation": {
+    "previous": {
+      "title": "Manual de Usuario Proceso Vitality-POS",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/30"
+    },
+    "next": {
+      "title": "PlugThen",
+      "permalink": "/documentacion-DSI/docs/category/plugthen"
+    }
+  }
+}

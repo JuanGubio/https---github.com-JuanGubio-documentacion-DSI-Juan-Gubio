@@ -1,0 +1,16 @@
+{
+  "title": "Manual Bases Replicacion",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/manual-bases-replicacion",
+  "permalink": "/documentacion-DSI/docs/category/manual-bases-replicacion",
+  "navigation": {
+    "previous": {
+      "title": "Administracion de periodos",
+      "permalink": "/documentacion-DSI/docs/category/administracion-de-periodos"
+    },
+    "next": {
+      "title": "anexos",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/Anexos/"
+    }
+  }
+}

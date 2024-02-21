@@ -1,0 +1,16 @@
+{
+  "title": "PlugThen",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/plugthen",
+  "permalink": "/documentacion-DSI/docs/category/plugthen",
+  "navigation": {
+    "previous": {
+      "title": "Encuestas",
+      "permalink": "/documentacion-DSI/docs/category/encuestas"
+    },
+    "next": {
+      "title": "Encuesta de Satisfacción Cliente - Plug Them",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios6/servicios7/7"
+    }
+  }
+}

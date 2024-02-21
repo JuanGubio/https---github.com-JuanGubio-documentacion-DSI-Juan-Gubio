@@ -1,0 +1,16 @@
+{
+  "title": "Creacion de productos desde maxpoint",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/creacion-de-productos-desde-maxpoint",
+  "permalink": "/documentacion-DSI/docs/category/creacion-de-productos-desde-maxpoint",
+  "navigation": {
+    "previous": {
+      "title": "MXP v1.9.15.5",
+      "permalink": "/documentacion-DSI/docs/category/mxp-v19155"
+    },
+    "next": {
+      "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.1/11"
+    }
+  }
+}

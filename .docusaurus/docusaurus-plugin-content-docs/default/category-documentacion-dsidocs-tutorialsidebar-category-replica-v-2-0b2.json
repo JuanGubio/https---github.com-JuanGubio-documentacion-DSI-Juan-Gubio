@@ -1,0 +1,16 @@
+{
+  "title": "Replica V2",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/replica-v2",
+  "permalink": "/documentacion-DSI/docs/category/replica-v2",
+  "navigation": {
+    "previous": {
+      "title": "Manual para Configurar politicas PayPhone",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios11/19"
+    },
+    "next": {
+      "title": "Manual de Usuario politicas",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios12/20"
+    }
+  }
+}

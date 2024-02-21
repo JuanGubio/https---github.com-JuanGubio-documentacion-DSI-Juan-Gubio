@@ -1,0 +1,16 @@
+{
+  "title": "Vitality",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/vitality",
+  "permalink": "/documentacion-DSI/docs/category/vitality",
+  "navigation": {
+    "previous": {
+      "title": "Manual voucher aerolineas",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios18/28"
+    },
+    "next": {
+      "title": "Manual Configuracion Vitality",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/29"
+    }
+  }
+}

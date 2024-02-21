@@ -1,0 +1,16 @@
+{
+  "title": "VaucherAereolinea",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/vaucheraereolinea",
+  "permalink": "/documentacion-DSI/docs/category/vaucheraereolinea",
+  "navigation": {
+    "previous": {
+      "title": "Manual de Configuración politicas UBER",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios17/27"
+    },
+    "next": {
+      "title": "Manual voucher aerolineas",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios18/28"
+    }
+  }
+}

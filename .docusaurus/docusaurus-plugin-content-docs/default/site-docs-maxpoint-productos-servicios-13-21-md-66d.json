@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios13/21",
+  "title": "Manual de creacion de leyenda reclamos o sugerencias",
+  "description": "LEYENDA RECLAMOS O SUGERENCIAS",
+  "source": "@site/docs/Maxpoint/Productos/servicios13/21.md",
+  "sourceDirName": "Maxpoint/Productos/servicios13",
+  "slug": "/Maxpoint/Productos/servicios13/21",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios13/21",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios13/21.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reclamos y Sugerencia",
+    "permalink": "/documentacion-DSI/docs/category/reclamos-y-sugerencia"
+  },
+  "next": {
+    "title": "RIA CONTROL V3(PRODUCTOS ESPECIALES)",
+    "permalink": "/documentacion-DSI/docs/category/ria-control-v3productos-especiales"
+  }
+}

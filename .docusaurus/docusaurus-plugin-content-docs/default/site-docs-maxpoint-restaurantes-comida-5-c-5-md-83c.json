@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Restaurantes/comida5/c5",
+  "title": "Manual de Usuario - Instalación de Reportes KFC",
+  "description": "Instalación de Reportes",
+  "source": "@site/docs/Maxpoint/Restaurantes/comida5/c5.md",
+  "sourceDirName": "Maxpoint/Restaurantes/comida5",
+  "slug": "/Maxpoint/Restaurantes/comida5/c5",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida5/c5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Restaurantes/comida5/c5.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instalacion de Reportes",
+    "permalink": "/documentacion-DSI/docs/category/instalacion-de-reportes"
+  },
+  "next": {
+    "title": "Kiosko",
+    "permalink": "/documentacion-DSI/docs/category/kiosko"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Notas de credito",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/notas-de-credito",
+  "permalink": "/documentacion-DSI/docs/category/notas-de-credito",
+  "navigation": {
+    "previous": {
+      "title": "Manual de Usuario Politicas Creacion y Actualización de Productos",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios5/6"
+    },
+    "next": {
+      "title": "Manual Notas de Crédito",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/16"
+    }
+  }
+}

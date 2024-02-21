@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios9/servicios10/15",
+  "title": "akdjhuawhj",
+  "description": "",
+  "source": "@site/docs/Maxpoint/Productos/servicios9/servicios10/15.md",
+  "sourceDirName": "Maxpoint/Productos/servicios9/servicios10",
+  "slug": "/Maxpoint/Productos/servicios9/servicios10/15",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios10/15",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios9/servicios10/15.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notas de credito",
+    "permalink": "/documentacion-DSI/docs/category/notas-de-credito"
+  },
+  "next": {
+    "title": "Creacion de productos desde maxpoint",
+    "permalink": "/documentacion-DSI/docs/category/creacion-de-productos-desde-maxpoint"
+  }
+}

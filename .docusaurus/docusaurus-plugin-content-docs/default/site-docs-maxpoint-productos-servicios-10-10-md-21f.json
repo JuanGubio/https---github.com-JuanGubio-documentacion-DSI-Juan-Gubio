@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios10/10",
+  "title": "10",
+  "description": "",
+  "source": "@site/docs/Maxpoint/Productos/servicios10/10.md",
+  "sourceDirName": "Maxpoint/Productos/servicios10",
+  "slug": "/Maxpoint/Productos/servicios10/10",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios10/10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios10/10.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notas de credito",
+    "permalink": "/documentacion-DSI/docs/category/notas-de-credito"
+  },
+  "next": {
+    "title": "Encuestas",
+    "permalink": "/documentacion-DSI/docs/category/encuestas"
+  }
+}
