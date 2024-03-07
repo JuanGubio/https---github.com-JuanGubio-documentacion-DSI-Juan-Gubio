@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios22/46",
+  "title": "Manual Configuracion URL Transferencias App y Web",
+  "description": "CONFIGURACION URL TRANSFERENCIA AMBIENTES",
+  "source": "@site/docs/Maxpoint/Productos/servicios22/46.md",
+  "sourceDirName": "Maxpoint/Productos/servicios22",
+  "slug": "/Maxpoint/Productos/servicios22/46",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/46",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios22/46.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Configuración URL Transferencia",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/45"
+  },
+  "next": {
+    "title": "Manual de Configuracion Tracking",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/47"
+  }
+}

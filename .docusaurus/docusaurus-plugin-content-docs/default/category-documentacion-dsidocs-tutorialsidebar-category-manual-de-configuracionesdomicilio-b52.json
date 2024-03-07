@@ -1,0 +1,16 @@
+{
+  "title": "Manual de ConfiguracionesDomicilio",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/manual-de-configuracionesdomicilio",
+  "permalink": "/documentacion-DSI/docs/category/manual-de-configuracionesdomicilio",
+  "navigation": {
+    "previous": {
+      "title": "Manual - Configuración Políticas Servicio API Impresión (3)",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/40"
+    },
+    "next": {
+      "title": "Manual Configuración Semáforo Pedidos",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/41"
+    }
+  }
+}

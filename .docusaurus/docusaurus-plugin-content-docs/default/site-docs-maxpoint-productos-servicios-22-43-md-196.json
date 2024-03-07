@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios22/43",
+  "title": "Manual Configuracion URL Comandas Motorizado",
+  "description": "CONFIGURACIÓN POLÍTICA",
+  "source": "@site/docs/Maxpoint/Productos/servicios22/43.md",
+  "sourceDirName": "Maxpoint/Productos/servicios22",
+  "slug": "/Maxpoint/Productos/servicios22/43",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/43",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios22/43.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Configuración Tipo de Motorizados",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/42"
+  },
+  "next": {
+    "title": "Manual Configuracion URL Motorizados",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/44"
+  }
+}

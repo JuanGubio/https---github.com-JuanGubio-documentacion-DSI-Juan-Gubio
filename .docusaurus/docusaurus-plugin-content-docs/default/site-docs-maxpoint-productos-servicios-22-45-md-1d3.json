@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios22/45",
+  "title": "Manual Configuración URL Transferencia",
+  "description": "+",
+  "source": "@site/docs/Maxpoint/Productos/servicios22/45.md",
+  "sourceDirName": "Maxpoint/Productos/servicios22",
+  "slug": "/Maxpoint/Productos/servicios22/45",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/45",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios22/45.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Configuracion URL Motorizados",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/44"
+  },
+  "next": {
+    "title": "Manual Configuracion URL Transferencias App y Web",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/46"
+  }
+}

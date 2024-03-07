@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios20/31",
+  "title": "ManualConfiguraciónSymbolDS9208",
+  "description": "Manual de Instalación de Symbol DS9208",
+  "source": "@site/docs/Maxpoint/Productos/servicios20/31.md",
+  "sourceDirName": "Maxpoint/Productos/servicios20",
+  "slug": "/Maxpoint/Productos/servicios20/31",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/31",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios20/31.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fidelizacion",
+    "permalink": "/documentacion-DSI/docs/category/fidelizacion"
+  },
+  "next": {
+    "title": "Proceso-Configuración de proveedor de gestión de motorizados por medio y restaurante",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/32"
+  }
+}

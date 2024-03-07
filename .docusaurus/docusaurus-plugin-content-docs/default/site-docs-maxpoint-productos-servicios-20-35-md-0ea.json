@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios20/35",
+  "title": "TEST CASES - Corrección y Mejoras MXP 1.9.15",
+  "description": "Correcciones Y MEJORAS  MAXPOINT",
+  "source": "@site/docs/Maxpoint/Productos/servicios20/35.md",
+  "sourceDirName": "Maxpoint/Productos/servicios20",
+  "slug": "/Maxpoint/Productos/servicios20/35",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/35",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios20/35.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pruebas UAT - Integración MXP 1.9.15",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/34"
+  },
+  "next": {
+    "title": "TEST CASES - Transferencia de Venta v1.9.15",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/36"
+  }
+}

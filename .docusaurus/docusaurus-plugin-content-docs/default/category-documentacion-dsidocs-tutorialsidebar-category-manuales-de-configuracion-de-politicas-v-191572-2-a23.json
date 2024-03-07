@@ -1,0 +1,16 @@
+{
+  "title": "Manuales de configuracion de politicas v1.9.15.7.2",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/manuales-de-configuracion-de-politicas-v191572-2",
+  "permalink": "/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v191572-2",
+  "navigation": {
+    "previous": {
+      "title": "Manual - Configuración Políticas Servicio API Impresión",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/55"
+    },
+    "next": {
+      "title": "OK-Manual - Configuracion Politicas Cambio Estado Automatico a Manual",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/56"
+    }
+  }
+}

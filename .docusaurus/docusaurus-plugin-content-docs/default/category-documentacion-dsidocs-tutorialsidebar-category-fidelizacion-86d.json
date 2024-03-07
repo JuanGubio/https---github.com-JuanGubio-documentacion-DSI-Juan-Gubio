@@ -1,0 +1,16 @@
+{
+  "title": "Fidelizacion",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/fidelizacion",
+  "permalink": "/documentacion-DSI/docs/category/fidelizacion",
+  "navigation": {
+    "previous": {
+      "title": "Manual de Usuario Proceso Vitality-POS",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios19/30"
+    },
+    "next": {
+      "title": "ManualConfiguraciónSymbolDS9208",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/31"
+    }
+  }
+}

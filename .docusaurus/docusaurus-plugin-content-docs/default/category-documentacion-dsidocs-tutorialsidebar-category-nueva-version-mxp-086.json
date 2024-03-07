@@ -1,0 +1,16 @@
+{
+  "title": "Nueva Versión MXP",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/nueva-versión-mxp",
+  "permalink": "/documentacion-DSI/docs/category/nueva-versión-mxp",
+  "navigation": {
+    "previous": {
+      "title": "Manual de Instalación Turnero V2",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios23/51"
+    },
+    "next": {
+      "title": "Manuales de configuracion de politicas v1.9.15.7.2",
+      "permalink": "/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v191572"
+    }
+  }
+}

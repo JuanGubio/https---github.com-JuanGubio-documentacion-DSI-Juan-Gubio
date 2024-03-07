@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios21/37",
+  "title": "Administrador de Impresión",
+  "description": "1. Ingresar al Administrador de Impresión, y dar click derecho sobre formularios y seleccionar “Administrar Formularios”.",
+  "source": "@site/docs/Maxpoint/Productos/servicios21/37.md",
+  "sourceDirName": "Maxpoint/Productos/servicios21",
+  "slug": "/Maxpoint/Productos/servicios21/37",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/37",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios21/37.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Impresion",
+    "permalink": "/documentacion-DSI/docs/category/impresion"
+  },
+  "next": {
+    "title": "Api Impresion",
+    "permalink": "/documentacion-DSI/docs/category/api-impresion"
+  }
+}

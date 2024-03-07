@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios22/49",
+  "title": "Manual_Precios_Domicilio_V8",
+  "description": "MANUAL PARA LA CONFIGURACIÓN DE COSTO A DOMICILIO POR PLUS",
+  "source": "@site/docs/Maxpoint/Productos/servicios22/49.md",
+  "sourceDirName": "Maxpoint/Productos/servicios22",
+  "slug": "/Maxpoint/Productos/servicios22/49",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/49",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios22/49.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Instalación API Motorizados",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/48"
+  },
+  "next": {
+    "title": "Turnenos",
+    "permalink": "/documentacion-DSI/docs/category/turnenos"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Api Impresion",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/api-impresion",
+  "permalink": "/documentacion-DSI/docs/category/api-impresion",
+  "navigation": {
+    "previous": {
+      "title": "Administrador de Impresión",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/37"
+    },
+    "next": {
+      "title": "Manual - Configuración estación pickup - impresora",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/38"
+    }
+  }
+}

@@ -186,18 +186,22 @@
     },
     "content": "content---documentacion-dsi-markdown-page-393-798"
   },
-  "/documentacion-DSI/docs-a96": {
+  "/documentacion-DSI/docs-74d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentacion-dsi-docs-9-e-7-609"
     }
   },
-  "/documentacion-DSI/docs-43f": {
+  "/documentacion-DSI/docs-90c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentacion-dsi-docs-935-df1"
   },
-  "/documentacion-DSI/docs-e2e": {
+  "/documentacion-DSI/docs-e6d": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/documentacion-DSI/docs/category/api-impresion-14d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-api-impresionf-01-9e6"
   },
   "/documentacion-DSI/docs/category/bases_replica-ce5": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -231,6 +235,10 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-facturacion-electronica-133-d-8d1"
   },
+  "/documentacion-DSI/docs/category/fidelizacion-37d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-fidelizacion-8-b-3-855"
+  },
   "/documentacion-DSI/docs/category/fullservice-8df": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-fullservicec-33-49c"
@@ -242,6 +250,10 @@
   "/documentacion-DSI/docs/category/identificadores-app--a77": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-identificadores-app-c-38-5f8"
+  },
+  "/documentacion-DSI/docs/category/impresion-d93": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-impresion-87-f-d71"
   },
   "/documentacion-DSI/docs/category/instalacion-de-reportes-3a9": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -263,6 +275,22 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-manual-de-cambios-para-eventos-14-f-8df"
   },
+  "/documentacion-DSI/docs/category/manual-de-configuraciones_domicilio-539": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-manual-de-configuraciones-domiciliod-6-f-2c9"
+  },
+  "/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v191572-df1": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-manuales-de-configuracion-de-politicas-v-191572-c-39-6fb"
+  },
+  "/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v19162-df9": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-manuales-de-configuracion-de-politicas-v-19162-e-8-a-caa"
+  },
+  "/documentacion-DSI/docs/category/manuales-de-configuraciones-de-politicas-v19163-d9b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-manuales-de-configuraciones-de-politicas-v-19163-bcb-c4d"
+  },
   "/documentacion-DSI/docs/category/maxpoint-ecb": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-maxpoint-6-c-2-da9"
@@ -274,6 +302,10 @@
   "/documentacion-DSI/docs/category/notas-de-credito-252": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-notas-de-creditob-78-f75"
+  },
+  "/documentacion-DSI/docs/category/nueva-versión-mxp-885": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-nueva-version-mxp-688-dfa"
   },
   "/documentacion-DSI/docs/category/payphone-632": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -314,6 +346,10 @@
   "/documentacion-DSI/docs/category/servicios-110": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-servicios-428-99b"
+  },
+  "/documentacion-DSI/docs/category/turnenos-996": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---documentacion-dsi-docs-category-turnenos-71-f-09f"
   },
   "/documentacion-DSI/docs/category/tutorial---basics-cbf": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -426,6 +462,134 @@
   "/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo-927": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-2-archivo-253-454"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/31-872": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-20-3160-a-c81"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/32-2b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-20-328-ea-7bb"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/33-5de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-20-3377-a-2df"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/34-e95": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-20-34-daf-4e9"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/35-f82": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-20-350-ea-db8"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/36-870": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-20-36-b-7-a-e9d"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/37-87c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-21-37-bfc-683"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/38-990": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-21-servicios-21-1-3869-b-9d0"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/39-1d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-21-servicios-21-1-39-e-1-d-883"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/40-487": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-21-servicios-21-1-404-fa-d8a"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/41-3ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-22-410-f-9-93d"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/42-d99": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-22-4243-a-269"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/43-6db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-22-43196-148"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/44-286": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-22-44854-01b"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/45-935": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-22-451-d-3-974"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/46-f57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-22-46-d-68-6a8"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/47-4dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-22-47-abf-b68"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/48-1e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-22-48740-6aa"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/49-857": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-22-49558-717"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios23/50-095": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-23-50-d-99-ff9"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios23/51-347": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-23-51921-884"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.1/52-9d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-1-520-e-4-4ed"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.1/53-0e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-1-53730-dc6"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/54-74d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-2-54-bdf-f8e"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/55-328": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-2-55-c-15-f7d"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/56-dc4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-3-5667-e-b39"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/57-436": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-3-57668-38d"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/58-88e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-3-582-b-4-7f3"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/59-0a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-3-59-b-4-d-787"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/60-0eb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-3-60-f-38-c5a"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/61-b55": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-3-6146-d-e51"
+  },
+  "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/62-711": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-productos-servicios-24-servicios-24-3-6267-b-93a"
   },
   "/documentacion-DSI/docs/Maxpoint/Productos/Servicios3/1-a16": {
     "__comp": "__comp---theme-doc-item-178-a40",

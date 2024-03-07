@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios21/servicios21.1/39",
+  "title": "Manual - Configuración impresora POSIFLEX",
+  "description": "CONFIGURACIÓN DE IMPRESORA – TIPO DE IMPRESORA",
+  "source": "@site/docs/Maxpoint/Productos/servicios21/servicios21.1/39.md",
+  "sourceDirName": "Maxpoint/Productos/servicios21/servicios21.1",
+  "slug": "/Maxpoint/Productos/servicios21/servicios21.1/39",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/39",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios21/servicios21.1/39.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual - Configuración estación pickup - impresora",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/38"
+  },
+  "next": {
+    "title": "Manual - Configuración Políticas Servicio API Impresión (3)",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/40"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios22/48",
+  "title": "Manual Instalación API Motorizados",
+  "description": "Manual DE INSTALACIÓN Y USO DEL SISTEMA CENTRALIZADO DE MOTORIZADOS",
+  "source": "@site/docs/Maxpoint/Productos/servicios22/48.md",
+  "sourceDirName": "Maxpoint/Productos/servicios22",
+  "slug": "/Maxpoint/Productos/servicios22/48",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/48",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios22/48.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual de Configuracion Tracking",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/47"
+  },
+  "next": {
+    "title": "Manual_Precios_Domicilio_V8",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/49"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios24/servicios24.3/60",
+  "title": "OK-Manual - Configuracion Politicas Transferencia Pickup",
+  "description": "CONFIGURACIÓN DE POLÍTICAS TRANSFERENCIA PEDIDOS PICKUP",
+  "source": "@site/docs/Maxpoint/Productos/servicios24/servicios24.3/60.md",
+  "sourceDirName": "Maxpoint/Productos/servicios24/servicios24.3",
+  "slug": "/Maxpoint/Productos/servicios24/servicios24.3/60",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/60",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios24/servicios24.3/60.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OK-Manual - Configuracion Politicas Tipo Cajero (v2)",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/59"
+  },
+  "next": {
+    "title": "OK-Manual - Configuracion politicas Valida email PlugThem (v2)",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/61"
+  }
+}

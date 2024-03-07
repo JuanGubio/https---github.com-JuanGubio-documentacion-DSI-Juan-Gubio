@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios21/servicios21.1/38",
+  "title": "Manual - Configuración estación pickup - impresora",
+  "description": "CONFIGURACIÓN IMPRESORA PARA LA ESTACIÓN DE PICKUP",
+  "source": "@site/docs/Maxpoint/Productos/servicios21/servicios21.1/38.md",
+  "sourceDirName": "Maxpoint/Productos/servicios21/servicios21.1",
+  "slug": "/Maxpoint/Productos/servicios21/servicios21.1/38",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/38",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios21/servicios21.1/38.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Api Impresion",
+    "permalink": "/documentacion-DSI/docs/category/api-impresion"
+  },
+  "next": {
+    "title": "Manual - Configuración impresora POSIFLEX",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/39"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Turnenos",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/turnenos",
+  "permalink": "/documentacion-DSI/docs/category/turnenos",
+  "navigation": {
+    "previous": {
+      "title": "Manual_Precios_Domicilio_V8",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/49"
+    },
+    "next": {
+      "title": "Manual de instalación Turnero V3.0",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios23/50"
+    }
+  }
+}

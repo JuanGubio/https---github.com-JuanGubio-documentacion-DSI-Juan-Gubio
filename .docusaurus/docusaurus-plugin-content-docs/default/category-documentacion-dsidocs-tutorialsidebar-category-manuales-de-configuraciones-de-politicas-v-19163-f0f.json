@@ -1,0 +1,16 @@
+{
+  "title": "Manuales de configuraciones de politicas v1.9.16.3",
+  "description": "Documentación Back Office de MaxPoint del  Grupo KFC",
+  "slug": "/category/manuales-de-configuraciones-de-politicas-v19163",
+  "permalink": "/documentacion-DSI/docs/category/manuales-de-configuraciones-de-politicas-v19163",
+  "navigation": {
+    "previous": {
+      "title": "Manual de politicas - Ruta Binario PHP v2",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.1/53"
+    },
+    "next": {
+      "title": "Manual - Configuración Políticas de Turneros",
+      "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/54"
+    }
+  }
+}

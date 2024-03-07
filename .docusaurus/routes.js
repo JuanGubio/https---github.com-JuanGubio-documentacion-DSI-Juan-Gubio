@@ -99,16 +99,22 @@ export default [
   },
   {
     path: '/documentacion-DSI/docs',
-    component: ComponentCreator('/documentacion-DSI/docs', 'a96'),
+    component: ComponentCreator('/documentacion-DSI/docs', '74d'),
     routes: [
       {
         path: '/documentacion-DSI/docs',
-        component: ComponentCreator('/documentacion-DSI/docs', '43f'),
+        component: ComponentCreator('/documentacion-DSI/docs', '90c'),
         routes: [
           {
             path: '/documentacion-DSI/docs',
-            component: ComponentCreator('/documentacion-DSI/docs', 'e2e'),
+            component: ComponentCreator('/documentacion-DSI/docs', 'e6d'),
             routes: [
+              {
+                path: '/documentacion-DSI/docs/category/api-impresion',
+                component: ComponentCreator('/documentacion-DSI/docs/category/api-impresion', '14d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/documentacion-DSI/docs/category/bases_replica',
                 component: ComponentCreator('/documentacion-DSI/docs/category/bases_replica', 'ce5'),
@@ -158,6 +164,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/documentacion-DSI/docs/category/fidelizacion',
+                component: ComponentCreator('/documentacion-DSI/docs/category/fidelizacion', '37d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/documentacion-DSI/docs/category/fullservice',
                 component: ComponentCreator('/documentacion-DSI/docs/category/fullservice', '8df'),
                 exact: true,
@@ -172,6 +184,12 @@ export default [
               {
                 path: '/documentacion-DSI/docs/category/identificadores-app-',
                 component: ComponentCreator('/documentacion-DSI/docs/category/identificadores-app-', 'a77'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/category/impresion',
+                component: ComponentCreator('/documentacion-DSI/docs/category/impresion', 'd93'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -206,6 +224,30 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/documentacion-DSI/docs/category/manual-de-configuraciones_domicilio',
+                component: ComponentCreator('/documentacion-DSI/docs/category/manual-de-configuraciones_domicilio', '539'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v191572',
+                component: ComponentCreator('/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v191572', 'df1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v19162',
+                component: ComponentCreator('/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v19162', 'df9'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/category/manuales-de-configuraciones-de-politicas-v19163',
+                component: ComponentCreator('/documentacion-DSI/docs/category/manuales-de-configuraciones-de-politicas-v19163', 'd9b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/documentacion-DSI/docs/category/maxpoint',
                 component: ComponentCreator('/documentacion-DSI/docs/category/maxpoint', 'ecb'),
                 exact: true,
@@ -220,6 +262,12 @@ export default [
               {
                 path: '/documentacion-DSI/docs/category/notas-de-credito',
                 component: ComponentCreator('/documentacion-DSI/docs/category/notas-de-credito', '252'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/category/nueva-versión-mxp',
+                component: ComponentCreator('/documentacion-DSI/docs/category/nueva-versión-mxp', '885'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -280,6 +328,12 @@ export default [
               {
                 path: '/documentacion-DSI/docs/category/servicios',
                 component: ComponentCreator('/documentacion-DSI/docs/category/servicios', '110'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/category/turnenos',
+                component: ComponentCreator('/documentacion-DSI/docs/category/turnenos', '996'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -448,6 +502,198 @@ export default [
               {
                 path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo',
                 component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios2/archivo', '927'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios20/31',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios20/31', '872'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios20/32',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios20/32', '2b4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios20/33',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios20/33', '5de'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios20/34',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios20/34', 'e95'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios20/35',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios20/35', 'f82'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios20/36',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios20/36', '870'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios21/37',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios21/37', '87c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/38',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/38', '990'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/39',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/39', '1d8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/40',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/40', '487'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios22/41',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios22/41', '3ea'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios22/42',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios22/42', 'd99'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios22/43',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios22/43', '6db'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios22/44',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios22/44', '286'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios22/45',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios22/45', '935'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios22/46',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios22/46', 'f57'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios22/47',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios22/47', '4dd'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios22/48',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios22/48', '1e8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios22/49',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios22/49', '857'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios23/50',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios23/50', '095'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios23/51',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios23/51', '347'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.1/52',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.1/52', '9d6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.1/53',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.1/53', '0e0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/54',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/54', '74d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/55',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/55', '328'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/56',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/56', 'dc4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/57',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/57', '436'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/58',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/58', '88e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/59',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/59', '0a4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/60',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/60', '0eb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/61',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/61', 'b55'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/62',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/62', '711'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

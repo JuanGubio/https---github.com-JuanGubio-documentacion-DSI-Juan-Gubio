@@ -1,0 +1,24 @@
+{
+  "id": "Maxpoint/Productos/servicios22/42",
+  "title": "Manual Configuración Tipo de Motorizados",
+  "description": "MANUAL CONFIGURACIÓN TIPOS DE MOTORIZADOS CONFIGURACIÓN POLÍTICA",
+  "source": "@site/docs/Maxpoint/Productos/servicios22/42.md",
+  "sourceDirName": "Maxpoint/Productos/servicios22",
+  "slug": "/Maxpoint/Productos/servicios22/42",
+  "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/42",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/Productos/servicios22/42.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manual Configuración Semáforo Pedidos",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/41"
+  },
+  "next": {
+    "title": "Manual Configuracion URL Comandas Motorizado",
+    "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/43"
+  }
+}

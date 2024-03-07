@@ -347,6 +347,311 @@
               },
               {
                 "type": "category",
+                "label": "Fidelizacion",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "ManualConfiguraciónSymbolDS9208",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/31",
+                    "docId": "Maxpoint/Productos/servicios20/31",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Proceso-Configuración de proveedor de gestión de motorizados por medio y restaurante",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/32",
+                    "docId": "Maxpoint/Productos/servicios20/32",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Proceso-Fidelización App",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/33",
+                    "docId": "Maxpoint/Productos/servicios20/33",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Pruebas UAT - Integración MXP 1.9.15",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/34",
+                    "docId": "Maxpoint/Productos/servicios20/34",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "TEST CASES - Corrección y Mejoras MXP 1.9.15",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/35",
+                    "docId": "Maxpoint/Productos/servicios20/35",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "TEST CASES - Transferencia de Venta v1.9.15",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios20/36",
+                    "docId": "Maxpoint/Productos/servicios20/36",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/fidelizacion"
+              },
+              {
+                "type": "category",
+                "label": "Impresion",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Administrador de Impresión",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/37",
+                    "docId": "Maxpoint/Productos/servicios21/37",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "category",
+                    "label": "Api Impresion",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Manual - Configuración estación pickup - impresora",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/38",
+                        "docId": "Maxpoint/Productos/servicios21/servicios21.1/38",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "Manual - Configuración impresora POSIFLEX",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/39",
+                        "docId": "Maxpoint/Productos/servicios21/servicios21.1/39",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "Manual - Configuración Políticas Servicio API Impresión (3)",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios21/servicios21.1/40",
+                        "docId": "Maxpoint/Productos/servicios21/servicios21.1/40",
+                        "unlisted": false
+                      }
+                    ],
+                    "href": "/documentacion-DSI/docs/category/api-impresion"
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/impresion"
+              },
+              {
+                "type": "category",
+                "label": "Manual de Configuraciones_Domicilio",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual Configuración Semáforo Pedidos",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/41",
+                    "docId": "Maxpoint/Productos/servicios22/41",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual Configuración Tipo de Motorizados",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/42",
+                    "docId": "Maxpoint/Productos/servicios22/42",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual Configuracion URL Comandas Motorizado",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/43",
+                    "docId": "Maxpoint/Productos/servicios22/43",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual Configuracion URL Motorizados",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/44",
+                    "docId": "Maxpoint/Productos/servicios22/44",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual Configuración URL Transferencia",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/45",
+                    "docId": "Maxpoint/Productos/servicios22/45",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual Configuracion URL Transferencias App y Web",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/46",
+                    "docId": "Maxpoint/Productos/servicios22/46",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual de Configuracion Tracking",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/47",
+                    "docId": "Maxpoint/Productos/servicios22/47",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual Instalación API Motorizados",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/48",
+                    "docId": "Maxpoint/Productos/servicios22/48",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual_Precios_Domicilio_V8",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios22/49",
+                    "docId": "Maxpoint/Productos/servicios22/49",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/manual-de-configuraciones_domicilio"
+              },
+              {
+                "type": "category",
+                "label": "Turnenos",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual de instalación Turnero V3.0",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios23/50",
+                    "docId": "Maxpoint/Productos/servicios23/50",
+                    "unlisted": false
+                  },
+                  {
+                    "type": "link",
+                    "label": "Manual de Instalación Turnero V2",
+                    "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios23/51",
+                    "docId": "Maxpoint/Productos/servicios23/51",
+                    "unlisted": false
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/turnenos"
+              },
+              {
+                "type": "category",
+                "label": "Nueva Versión MXP",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Manuales de configuracion de politicas v1.9.15.7.2",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Manual - Configuración Unificación Transferencia de Venta",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.1/52",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.1/52",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "Manual de politicas - Ruta Binario PHP v2",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.1/53",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.1/53",
+                        "unlisted": false
+                      }
+                    ],
+                    "href": "/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v191572"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Manuales de configuraciones de politicas v1.9.16.3",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Manual - Configuración Políticas de Turneros",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/54",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.2/54",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "Manual - Configuración Políticas Servicio API Impresión",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.2/55",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.2/55",
+                        "unlisted": false
+                      }
+                    ],
+                    "href": "/documentacion-DSI/docs/category/manuales-de-configuraciones-de-politicas-v19163"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Manuales de configuracion de politicas v1.9.16.2",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "OK-Manual - Configuracion Politicas Cambio Estado Automatico a Manual",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/56",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.3/56",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "OK-Manual - Configuracion Politicas Control de horario para desmontar cajero pickUp y Delivery (v2)",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/57",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.3/57",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "OK-Manual - Configuracion Politicas Creditos Relacionados sin numero de factura",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/58",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.3/58",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "OK-Manual - Configuracion Politicas Tipo Cajero (v2)",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/59",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.3/59",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "OK-Manual - Configuracion Politicas Transferencia Pickup",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/60",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.3/60",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "OK-Manual - Configuracion politicas Valida email PlugThem (v2)",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/61",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.3/61",
+                        "unlisted": false
+                      },
+                      {
+                        "type": "link",
+                        "label": "OK-Manual Politicas Cod Orden App (v2.1)",
+                        "href": "/documentacion-DSI/docs/Maxpoint/Productos/servicios24/servicios24.3/62",
+                        "docId": "Maxpoint/Productos/servicios24/servicios24.3/62",
+                        "unlisted": false
+                      }
+                    ],
+                    "href": "/documentacion-DSI/docs/category/manuales-de-configuracion-de-politicas-v19162"
+                  }
+                ],
+                "href": "/documentacion-DSI/docs/category/nueva-versión-mxp"
+              },
+              {
+                "type": "category",
                 "label": "Encuestas",
                 "collapsible": true,
                 "collapsed": true,
@@ -818,6 +1123,198 @@
       "id": "Maxpoint/Productos/servicios2/archivo",
       "title": "Manual Bases Replicacion",
       "description": "## 1 OBJETIVOS",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios20/31": {
+      "id": "Maxpoint/Productos/servicios20/31",
+      "title": "ManualConfiguraciónSymbolDS9208",
+      "description": "Manual de Instalación de Symbol DS9208",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios20/32": {
+      "id": "Maxpoint/Productos/servicios20/32",
+      "title": "Proceso-Configuración de proveedor de gestión de motorizados por medio y restaurante",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios20/33": {
+      "id": "Maxpoint/Productos/servicios20/33",
+      "title": "Proceso-Fidelización App",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios20/34": {
+      "id": "Maxpoint/Productos/servicios20/34",
+      "title": "Pruebas UAT - Integración MXP 1.9.15",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios20/35": {
+      "id": "Maxpoint/Productos/servicios20/35",
+      "title": "TEST CASES - Corrección y Mejoras MXP 1.9.15",
+      "description": "Correcciones Y MEJORAS  MAXPOINT",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios20/36": {
+      "id": "Maxpoint/Productos/servicios20/36",
+      "title": "TEST CASES - Transferencia de Venta v1.9.15",
+      "description": "TRANSFERENCIA DE VENTA",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios21/37": {
+      "id": "Maxpoint/Productos/servicios21/37",
+      "title": "Administrador de Impresión",
+      "description": "1. Ingresar al Administrador de Impresión, y dar click derecho sobre formularios y seleccionar “Administrar Formularios”.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios21/servicios21.1/38": {
+      "id": "Maxpoint/Productos/servicios21/servicios21.1/38",
+      "title": "Manual - Configuración estación pickup - impresora",
+      "description": "CONFIGURACIÓN IMPRESORA PARA LA ESTACIÓN DE PICKUP",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios21/servicios21.1/39": {
+      "id": "Maxpoint/Productos/servicios21/servicios21.1/39",
+      "title": "Manual - Configuración impresora POSIFLEX",
+      "description": "CONFIGURACIÓN DE IMPRESORA – TIPO DE IMPRESORA",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios21/servicios21.1/40": {
+      "id": "Maxpoint/Productos/servicios21/servicios21.1/40",
+      "title": "Manual - Configuración Políticas Servicio API Impresión (3)",
+      "description": "CONFIGURACIÓN DE POLÍTICAS – SERVICIO API IMPRESIÓN",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios22/41": {
+      "id": "Maxpoint/Productos/servicios22/41",
+      "title": "Manual Configuración Semáforo Pedidos",
+      "description": "CONFIGURACIÓN SEMÁFORO PEDIDOS DELIVERY RESUMEN",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios22/42": {
+      "id": "Maxpoint/Productos/servicios22/42",
+      "title": "Manual Configuración Tipo de Motorizados",
+      "description": "MANUAL CONFIGURACIÓN TIPOS DE MOTORIZADOS CONFIGURACIÓN POLÍTICA",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios22/43": {
+      "id": "Maxpoint/Productos/servicios22/43",
+      "title": "Manual Configuracion URL Comandas Motorizado",
+      "description": "CONFIGURACIÓN POLÍTICA",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios22/44": {
+      "id": "Maxpoint/Productos/servicios22/44",
+      "title": "Manual Configuracion URL Motorizados",
+      "description": "CONFIGURACION URL MOTOROLOS AMBIENTES",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios22/45": {
+      "id": "Maxpoint/Productos/servicios22/45",
+      "title": "Manual Configuración URL Transferencia",
+      "description": "+",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios22/46": {
+      "id": "Maxpoint/Productos/servicios22/46",
+      "title": "Manual Configuracion URL Transferencias App y Web",
+      "description": "CONFIGURACION URL TRANSFERENCIA AMBIENTES",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios22/47": {
+      "id": "Maxpoint/Productos/servicios22/47",
+      "title": "Manual de Configuracion Tracking",
+      "description": "MANUAL PARA POLITICA TRACKING TRADE",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios22/48": {
+      "id": "Maxpoint/Productos/servicios22/48",
+      "title": "Manual Instalación API Motorizados",
+      "description": "Manual DE INSTALACIÓN Y USO DEL SISTEMA CENTRALIZADO DE MOTORIZADOS",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios22/49": {
+      "id": "Maxpoint/Productos/servicios22/49",
+      "title": "Manual_Precios_Domicilio_V8",
+      "description": "MANUAL PARA LA CONFIGURACIÓN DE COSTO A DOMICILIO POR PLUS",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios23/50": {
+      "id": "Maxpoint/Productos/servicios23/50",
+      "title": "Manual de instalación Turnero V3.0",
+      "description": "Manual para INSTALACIÓN de turnero",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios23/51": {
+      "id": "Maxpoint/Productos/servicios23/51",
+      "title": "Manual de Instalación Turnero V2",
+      "description": "Manual para INSTALACIÓn de turneros",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.1/52": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.1/52",
+      "title": "Manual - Configuración Unificación Transferencia de Venta",
+      "description": "Configuración Políticas - Unificación transferencia de venta",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.1/53": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.1/53",
+      "title": "Manual de politicas - Ruta Binario PHP v2",
+      "description": "MANUAL DE DEFINICIÓN DE RUTA A BINARIO PHP",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.2/54": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.2/54",
+      "title": "Manual - Configuración Políticas de Turneros",
+      "description": "SOCKET despacho TURNERO",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.2/55": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.2/55",
+      "title": "Manual - Configuración Políticas Servicio API Impresión",
+      "description": "CONFIGURACIÓN DE POLÍTICAS – SERVICIO API IMPRESIÓN",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.3/56": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.3/56",
+      "title": "OK-Manual - Configuracion Politicas Cambio Estado Automatico a Manual",
+      "description": "CAMBIO ESTADO AUTOMÁTICO A MANUAL",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.3/57": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.3/57",
+      "title": "OK-Manual - Configuracion Politicas Control de horario para desmontar cajero pickUp y Delivery (v2)",
+      "description": "Control horarios para desmontar cajero delivery/picku",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.3/58": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.3/58",
+      "title": "OK-Manual - Configuracion Politicas Creditos Relacionados sin numero de factura",
+      "description": "Créditos Relacionados sin número de factura",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.3/59": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.3/59",
+      "title": "OK-Manual - Configuracion Politicas Tipo Cajero (v2)",
+      "description": "Tipo cajero",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.3/60": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.3/60",
+      "title": "OK-Manual - Configuracion Politicas Transferencia Pickup",
+      "description": "CONFIGURACIÓN DE POLÍTICAS TRANSFERENCIA PEDIDOS PICKUP",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.3/61": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.3/61",
+      "title": "OK-Manual - Configuracion politicas Valida email PlugThem (v2)",
+      "description": "OK-Manual - Configuracion politicas Valida email PlugThem (v2)",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/Productos/servicios24/servicios24.3/62": {
+      "id": "Maxpoint/Productos/servicios24/servicios24.3/62",
+      "title": "OK-Manual Politicas Cod Orden App (v2.1)",
+      "description": "CONFIGURACIÓN DE POLÍTICAS PARA CÓDIGO ORDEN APP",
       "sidebar": "tutorialSidebar"
     },
     "Maxpoint/Productos/Servicios3/1": {
