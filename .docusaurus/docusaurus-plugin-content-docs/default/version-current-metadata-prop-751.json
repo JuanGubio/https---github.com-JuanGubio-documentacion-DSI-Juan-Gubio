@@ -764,6 +764,13 @@
             "href": "/documentacion-DSI/docs/category/productos"
           },
           {
+            "type": "link",
+            "label": "Website",
+            "href": "/documentacion-DSI/docs/Maxpoint/",
+            "docId": "Maxpoint/README",
+            "unlisted": false
+          },
+          {
             "type": "category",
             "label": "Restaurantes",
             "collapsible": true,
@@ -1411,6 +1418,12 @@
       "id": "Maxpoint/productoss/Descargar Productos y Precios",
       "title": "Etiquetas de impuestos dinámica V.1.9.7",
       "description": "1 Antecedentes",
+      "sidebar": "tutorialSidebar"
+    },
+    "Maxpoint/README": {
+      "id": "Maxpoint/README",
+      "title": "Website",
+      "description": "This website is built using Docusaurus, a modern static website generator.",
       "sidebar": "tutorialSidebar"
     },
     "Maxpoint/Restaurantes/comida1/c1": {

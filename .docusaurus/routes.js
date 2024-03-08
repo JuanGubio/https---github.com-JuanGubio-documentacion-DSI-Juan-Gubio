@@ -99,15 +99,15 @@ export default [
   },
   {
     path: '/documentacion-DSI/docs',
-    component: ComponentCreator('/documentacion-DSI/docs', '74d'),
+    component: ComponentCreator('/documentacion-DSI/docs', '324'),
     routes: [
       {
         path: '/documentacion-DSI/docs',
-        component: ComponentCreator('/documentacion-DSI/docs', '90c'),
+        component: ComponentCreator('/documentacion-DSI/docs', '1ad'),
         routes: [
           {
             path: '/documentacion-DSI/docs',
-            component: ComponentCreator('/documentacion-DSI/docs', 'e6d'),
+            component: ComponentCreator('/documentacion-DSI/docs', '23f'),
             routes: [
               {
                 path: '/documentacion-DSI/docs/category/api-impresion',
@@ -388,6 +388,12 @@ export default [
               {
                 path: '/documentacion-DSI/docs/intro',
                 component: ComponentCreator('/documentacion-DSI/docs/intro', 'bc1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/documentacion-DSI/docs/Maxpoint',
+                component: ComponentCreator('/documentacion-DSI/docs/Maxpoint', 'bd5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

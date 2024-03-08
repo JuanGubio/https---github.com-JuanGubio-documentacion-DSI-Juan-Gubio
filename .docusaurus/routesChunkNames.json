@@ -186,17 +186,17 @@
     },
     "content": "content---documentacion-dsi-markdown-page-393-798"
   },
-  "/documentacion-DSI/docs-74d": {
+  "/documentacion-DSI/docs-324": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---documentacion-dsi-docs-9-e-7-609"
     }
   },
-  "/documentacion-DSI/docs-90c": {
+  "/documentacion-DSI/docs-1ad": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---documentacion-dsi-docs-935-df1"
   },
-  "/documentacion-DSI/docs-e6d": {
+  "/documentacion-DSI/docs-23f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/documentacion-DSI/docs/category/api-impresion-14d": {
@@ -386,6 +386,10 @@
   "/documentacion-DSI/docs/intro-bc1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---documentacion-dsi-docs-intro-0-e-3-b5a"
+  },
+  "/documentacion-DSI/docs/Maxpoint-bd5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---documentacion-dsi-docs-maxpoint-618-7d5"
   },
   "/documentacion-DSI/docs/Maxpoint/Manual del Sistema Maxpoint-8b4": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -366,6 +366,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Maxpoint/README",
+              "path": "/documentacion-DSI/docs/Maxpoint/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Maxpoint/Restaurantes/comida1/c1",
               "path": "/documentacion-DSI/docs/Maxpoint/Restaurantes/comida1/c1",
               "sidebar": "tutorialSidebar"

@@ -1697,8 +1697,8 @@
                 "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/13"
               },
               "next": {
-                "title": "Restaurantes",
-                "permalink": "/documentacion-DSI/docs/category/restaurantes"
+                "title": "Website",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/"
               }
             },
             {
@@ -1723,6 +1723,30 @@
               "next": {
                 "title": "Tutorial - Basics",
                 "permalink": "/documentacion-DSI/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "id": "Maxpoint/README",
+              "title": "Website",
+              "description": "This website is built using Docusaurus, a modern static website generator.",
+              "source": "@site/docs/Maxpoint/README.md",
+              "sourceDirName": "Maxpoint",
+              "slug": "/Maxpoint/",
+              "permalink": "/documentacion-DSI/docs/Maxpoint/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Maxpoint/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "manualPoliticas ControlCajas SIR-MAXPOINT (1)",
+                "permalink": "/documentacion-DSI/docs/Maxpoint/Productos/servicios9/servicios9.2/14"
+              },
+              "next": {
+                "title": "Restaurantes",
+                "permalink": "/documentacion-DSI/docs/category/restaurantes"
               }
             },
             {
@@ -2768,6 +2792,10 @@
                       "slug": "/category/productos",
                       "permalink": "/documentacion-DSI/docs/category/productos"
                     }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Maxpoint/README"
                   },
                   {
                     "type": "category",
